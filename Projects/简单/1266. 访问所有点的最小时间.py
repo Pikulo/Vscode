@@ -10,7 +10,6 @@
 
 #思路：计算插差值
 points = [[559,511],[932,618],[-623,-443]]
-
 i=0
 sum=0
 while(i<len(points)):
@@ -25,6 +24,7 @@ while(i<len(points)):
         sum+=a
         sum+=b
     i+=1
+# return sum
 print(sum)
 
     
