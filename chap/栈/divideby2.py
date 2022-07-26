@@ -10,4 +10,4 @@ def divideby2(decNumber):
         binString+=str(remstack.pop())
     return binString
 print(divideby2(1000))
-    
+# 通过修取余数，可切换成10进制和8进制。

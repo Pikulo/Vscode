@@ -1,11 +1,15 @@
 {
     "cSpell.words": [
+        "biggerthan",
+        "codeleet",
         "divideby",
+        "dividebyany",
         "leetcode",
         "matplotlib",
         "parchecker",
         "Pikulo",
         "popleft",
+        "racecar",
         "remstack"
     ],
     "python.analysis.extraPaths": [
