@@ -1,10 +1,16 @@
 {
     "cSpell.words": [
+        "divideby",
         "leetcode",
         "matplotlib",
         "parchecker",
         "Pikulo",
-        "popleft"
-    ]
+        "popleft",
+        "remstack"
+    ],
+    "python.analysis.extraPaths": [
+        "\"E:\\Visual Studio Code\\MY-Github-Projects\\git-setting\\Vscode\\.vscode\\settings.json\"",
+        "E:\\Visual Studio Code\\MY-Github-Projects\\git-setting\\Vscode\\chap\\栈"
+    ]  
    
 }
