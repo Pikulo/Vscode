@@ -10,7 +10,8 @@
         "Pikulo",
         "popleft",
         "racecar",
-        "remstack"
+        "remstack",
+        "simqueue"
     ],
     "python.analysis.extraPaths": [
         "\"E:\\Visual Studio Code\\MY-Github-Projects\\git-setting\\Vscode\\.vscode\\settings.json\"",
