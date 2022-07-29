@@ -1,17 +1,20 @@
 {
     "cSpell.words": [
         "biggerthan",
+        "chardeque",
         "codeleet",
         "divideby",
         "dividebyany",
         "leetcode",
         "matplotlib",
+        "palchecker",
         "parchecker",
         "Pikulo",
         "popleft",
         "racecar",
         "remstack",
-        "simqueue"
+        "simqueue",
+        "stillequal"
     ],
     "python.analysis.extraPaths": [
         "\"E:\\Visual Studio Code\\MY-Github-Projects\\git-setting\\Vscode\\.vscode\\settings.json\"",
