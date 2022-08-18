@@ -28,6 +28,6 @@ print(stu._Student__career)  # 在类的外部可以通过_Student__career访问
 #print(stu.__age)
 print(dir(stu))  # 通过函数dir查找能访问的类属性
 print(stu._Student__age)  # 在类的外部可以通过_Student__age访问
-
+print(stu._Student__age)
 
 
