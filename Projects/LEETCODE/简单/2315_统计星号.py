@@ -1,7 +1,15 @@
 # s = "l|*e*et|c**o|*de|"
 # s = "iamprogrammer"
 s = "yo|uar|e**|b|e***au|tifu|l"
-s = "|**|*|*|**||***||"
+# s = "|**|*|*|**||***||"
+
+#other idea
+# It counts the number of asterisks in the string s.
+print(sum(t.count('*') for t in s.split('|')[::2]))
+
+
+'''
+# my  idea
 list_tem = []
 list_tem2 = []
 for i,j in enumerate(s):
@@ -25,4 +33,4 @@ for i in s:
         res+=1
 print(res)
 # return res
-
+'''
