@@ -6,8 +6,8 @@ from audioop import mul
 from traceback import print_tb
 from typing import Counter
 
-
 nums = [1,1,2,2,2,3]
+nums = [2,3,1,3,2]
 nums = Counter(nums)
 nums=sorted(nums.items(),key=lambda x:x[1])
 # print(nums)
@@ -15,4 +15,15 @@ nums=sorted(nums.items(),key=lambda x:x[1])
     # print(i[0],i[1])
 dic = {}
 for i in nums:
+    dic.setdefault(i[1],[])
+    dic[i[1]].append(i[0])
+print(dic)
+res = []
+for i in dic.items():
+    if len(i[1])>1:
+        k = sorted(i[1],key=True)
+        print(k)
+    else:
+
+        
     
