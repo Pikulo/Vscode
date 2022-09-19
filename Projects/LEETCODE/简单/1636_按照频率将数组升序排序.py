@@ -3,6 +3,7 @@
 # 请你按照数值本身将它们 降序 排序。 
 # 请你返回排序后的数组。
 from audioop import mul
+import re
 from traceback import print_tb
 from typing import Counter
 
@@ -20,10 +21,12 @@ for i in nums:
 print(dic)
 res = []
 for i in dic.items():
+    
     if len(i[1])>1:
-        k = sorted(i[1],key=True)
-        print(k)
+        k = sorted(i[1],reverse=True)
+        
     else:
+        pass
 
         
     
