@@ -7,13 +7,12 @@ import re
 from traceback import print_tb
 from typing import Counter
 
-nums = [1,1,2,2,2,3]
+# nums = [1,1,2,2,2,3]
 nums = [2,3,1,3,2]
+# nums = [-1,1,-6,4,5,-6,1,4,1]
 nums = Counter(nums)
 nums=sorted(nums.items(),key=lambda x:x[1])
-# print(nums)
-# for i in nums:
-    # print(i[0],i[1])
+
 dic = {}
 for i in nums:
     dic.setdefault(i[1],[])
@@ -21,12 +20,11 @@ for i in nums:
 print(dic)
 res = []
 for i in dic.items():
-    
-    if len(i[1])>1:
-        k = sorted(i[1],reverse=True)
-        
-    else:
-        pass
-
-        
+    print(i,i[0])
+    k = sorted(i[1],reverse=True)
+    for m in k:
+        for p in range(i[0]):
+            res.append(m)      
+print(res)
+# return res
     
