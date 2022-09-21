@@ -21,3 +21,13 @@ plt.xlabel('工龄')
 plt.ylabel('薪水')
 plt.show()
 
+'''模型评估'''
+import statsmodels.api as sm
+X2 = sm.add_constant(X)
+est = sm.OLS(Y, X2).fit()
+print(est.summary())  # 在Jupyter Notebook中可以直接写est.summary()
+
+from sklearn.metrics import r2_score
+r2 = r2_score(Y, regr.predict(X))
+print(r2)
+

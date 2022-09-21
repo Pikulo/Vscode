@@ -21,6 +21,7 @@
         "remstack",
         "simqueue",
         "sklearn",
+        "statsmodels",
         "stillequal",
         "xlabel",
         "ylabel"
