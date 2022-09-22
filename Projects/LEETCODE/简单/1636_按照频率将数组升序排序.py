@@ -27,4 +27,3 @@ for i in dic.items():
             res.append(m)      
 print(res)
 # return res
-    

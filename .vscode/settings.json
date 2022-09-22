@@ -3,6 +3,7 @@
         "biggerthan",
         "chardeque",
         "codeleet",
+        "coef",
         "couter",
         "divideby",
         "dividebyany",
@@ -15,11 +16,19 @@
         "Paulo",
         "Pikulo",
         "popleft",
+<<<<<<< HEAD
         "pqueue",
+=======
+        "pyplot",
+>>>>>>> 766887f199ae1d032375d1507de05b6530e87ee4
         "racecar",
         "remstack",
         "simqueue",
-        "stillequal"
+        "sklearn",
+        "statsmodels",
+        "stillequal",
+        "xlabel",
+        "ylabel"
     ],
     "python.analysis.extraPaths": [
         "\"E:\\Visual Studio Code\\MY-Github-Projects\\git-setting\\Vscode\\.vscode\\settings.json\"",
