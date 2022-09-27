@@ -9,4 +9,4 @@ arr = np.array(img_new)
 for i in range(arr.shape[0]):
      print(arr[i])
 arr_new = arr.reshape(1, -1)
-print(arr_new)
+print(arr_new.shape)
