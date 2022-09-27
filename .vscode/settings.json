@@ -16,7 +16,11 @@
         "Paulo",
         "Pikulo",
         "popleft",
+<<<<<<< HEAD
+        "pqueue",
+=======
         "pyplot",
+>>>>>>> 766887f199ae1d032375d1507de05b6530e87ee4
         "racecar",
         "remstack",
         "simqueue",
