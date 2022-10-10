@@ -51,15 +51,14 @@ class GA():
     因为是求最大值，所以数值越大，适应度越高
         """
         x = self.decode(chromosome)
-        print(x)
         # return x + 10*math.sin(5*x) + 7*math.cos(4*x)
-        return -(x-5)**2+3
+        return x*math.sin(x)
 
     def decode(self,chromosome):
         """
         解码染色体，将二进制转或成属于【2，8】的实数
         """
-        return 2+chromosome * 6 / (2**self.length-1)
+        return 0+chromosome * 6 / (2**self.length-1)
 
     def selection(self, retain_rate, random_select_rate):
         """
@@ -70,7 +69,7 @@ class GA():
         #对适应度从大到小排序
         graded = [(self.fitness(chromosome), chromosome) for chromosome in self.population]
         # print(graded)
-        graded = [x[1] for x in sorted(graded, reverse = True)] # reverse = ？根据求最大T还是最小值F
+        graded = [x[1] for x in sorted(graded, reverse = False)] # reverse = ？根据求最大T还是最小值F
         # print(graded)
         #选出适应性强的染色体 
         retain_length = int(len(graded) * retain_rate)
@@ -125,14 +124,15 @@ class GA():
         """
         graded = [(self.fitness(chromosome), chromosome) for chromosome in self.population]
         # print(graded)
-        graded = [x[1] for x in sorted(graded, reverse = True)]
+        graded = [x[1] for x in sorted(graded, reverse = False)]
         return ga.decode(graded[0])
 
 if __name__ == '__main__':
         #染色体长度为17，种群数量为300
-    ga = GA(7,300)
-    print(ga)
-        #200次迭代
+    ga = GA(17,300)
+        #迭代次数
     for x in range(100):
         ga.evolve()
     print (ga.result())
+    y = ga.result()*math.sin(ga.result())
+    print(y)
