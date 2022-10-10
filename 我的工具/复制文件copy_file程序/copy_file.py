@@ -1,14 +1,14 @@
 # coding=gbk
-# Ñ§Ï°³¡Ëù£º ¼ÒÀï
-# Ğ´ Ï° Õß£ºÁõÃ÷Ñô
-# Ñ§Ï°Ê±¼ä£º2021/2/7  14:47
+# å­¦ä¹ åœºæ‰€ï¼š å®¶é‡Œ
+# å†™ ä¹  è€…ï¼šåˆ˜æ˜é˜³
+# å­¦ä¹ æ—¶é—´ï¼š2021/2/7  14:47
 
 def copy_file():
     import os
-    path=input('ÊäÈëÄúÒª¸´ÖÆµÄÎÄ¼şËùÔÚµÄÂ·¾¶:\n')
+    path=input('è¾“å…¥æ‚¨è¦å¤åˆ¶çš„æ–‡ä»¶æ‰€åœ¨çš„è·¯å¾„:\n')
     os.chdir(path)
-    pictuer_name = input('¸´ÖÆÕÕÆ¬Ãû³ÆÒÔ¼°¸ñÊ½ÔÚ´Ë:\n')
-    tick = int(input('ÊäÈëÄúÏë¸´ÖÆµÄ¸öÊı:\n'))
+    pictuer_name = input('å¤åˆ¶ç…§ç‰‡åç§°ä»¥åŠæ ¼å¼åœ¨æ­¤:\n')
+    tick = int(input('è¾“å…¥æ‚¨æƒ³å¤åˆ¶çš„ä¸ªæ•°:\n'))
     for i in range(tick):
         with open('{0}'.format(pictuer_name), 'rb') as file_1:
             with open('{0}-{1}'.format(i + 1, pictuer_name), 'wb') as file_2:
