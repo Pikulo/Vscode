@@ -25,33 +25,30 @@ if __name__ == '__main__':
     pass
 
 # folder = "C:/Users/Administrator/Desktop/UnderwaterImageEnhancement/Physical/LowComplexityDCP"
-folder = "C:/Users/Administrator/Desktop/Databases/Dataset"
-path = folder + "/InputImages"
-files = os.listdir(path)
-files =  natsort.natsorted(files)
+# folder = "C:/Users/Administrator/Desktop/Databases/Dataset"
+# path = folder + "/InputImages"
+# files = os.listdir(path)
+# files =  natsort.natsorted(files)
 
-for i in range(len(files)):
-    file = files[i]
-    filepath = path + "/" + file
-    prefix = file.split('.')[0]
-    if os.path.isfile(filepath):
-        print('********    file   ********',file)
-        img = cv2.imread(folder +'/InputImages/' + file)
+# for i in range(len(files)):
+#     file = files[i]
+#     filepath = path + "/" + file
+#     prefix = file.split('.')[0]
+#     if os.path.isfile(filepath):
+#         print('********    file   ********',file)
+img = cv2.imread('111.jpg')
 
-        blockSize = 9
+blockSize = 9
 
-        imgGray = getDarkChannel(img, blockSize)
-        AtomsphericLight = getAtomsphericLight(imgGray, img, meanMode=True, percent=0.001)
-        # print('AtomsphericLight',AtomsphericLight)
-        transmission = getTransmissionMap(img, AtomsphericLight, blockSize)
-        sceneRadiance = SceneRadiance(img, AtomsphericLight, transmission)
-        sceneRadiance = ColorContrastEnhancement(sceneRadiance)
+imgGray = getDarkChannel(img, blockSize)
+AtomsphericLight = getAtomsphericLight(imgGray, img, meanMode=True, percent=0.001)
+# print('AtomsphericLight',AtomsphericLight)
+transmission = getTransmissionMap(img, AtomsphericLight, blockSize)
+sceneRadiance = SceneRadiance(img, AtomsphericLight, transmission)
+sceneRadiance = ColorContrastEnhancement(sceneRadiance)
 
-        cv2.imwrite('OutputImages/' + prefix + '_LowComplexityDCPMap.jpg', np.uint8(transmission * 255))
-        cv2.imwrite('OutputImages/' + prefix + '_LowComplexityDCP.jpg', sceneRadiance)
+cv2.imwrite('111_LowComplexityDCPMap.jpg', np.uint8(transmission * 255))
+cv2.imwrite('111_LowComplexityDCP.jpg', sceneRadiance)
 
-        #
-        # plt.imshow(np.uint8(img))
-        # plt.show()
 
 

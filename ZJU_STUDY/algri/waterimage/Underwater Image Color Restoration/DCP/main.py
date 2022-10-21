@@ -176,18 +176,18 @@ if __name__ == '__main__':
     pass
 
 # folder = "C:/Users/Administrator/Desktop/UnderwaterImageEnhancement/Physical/DCP"
-folder = "C:/Users/Administrator/Desktop/Databases/Dataset"
-path = folder + "/InputImages"
-files = os.listdir(path)
-files =  natsort.natsorted(files)
+# folder = "C:/Users/Administrator/Desktop/Databases/Dataset"
+# path = folder + "/InputImages"
+# files = os.listdir(path)
+# files =  natsort.natsorted(files)
 
-for i in range(len(files)):
-    file = files[i]
-    filepath = path + "/" + file
-    prefix = file.split('.')[0]
-    if os.path.isfile(filepath):
-        print('********    file   ********',file)
-        img = cv2.imread(folder +'/InputImages/' + file)
-        transmission, sceneRadiance = getRecoverScene(img)
-        cv2.imwrite('OutputImages/' + prefix + '_DCP_TM.jpg', np.uint8(transmission * 255))
-        cv2.imwrite('OutputImages/' + prefix + '_DCP.jpg', sceneRadiance)
+# for i in range(len(files)):
+#     file = files[i]
+#     filepath = path + "/" + file
+#     prefix = file.split('.')[0]
+#     if os.path.isfile(filepath):
+#         print('********    file   ********',file)
+img = cv2.imread('111.jpg')
+transmission, sceneRadiance = getRecoverScene(img)
+cv2.imwrite('111_DCP_TM.jpg', np.uint8(transmission * 255))
+cv2.imwrite('111_DCP.jpg', sceneRadiance)
