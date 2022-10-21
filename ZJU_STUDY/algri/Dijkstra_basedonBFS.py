@@ -2,13 +2,20 @@
 import heapq
 import math
 
+# graph ={
+#     'A':{'B':5,'C':1},
+#     'B':{'A':5,'C':2,'D':1},
+#     'C':{'A':1,'B':2,'D':4,'E':8},
+#     'D':{'B':1,'C':4,'E':3,'F':6},
+#     'E':{'C':8,'D':3},
+#     'F':{'D':6}
+# }
 graph ={
-    'A':{'B':5,'C':1},
-    'B':{'A':5,'C':2,'D':1},
-    'C':{'A':1,'B':2,'D':4,'E':8},
-    'D':{'B':1,'C':4,'E':3,'F':6},
-    'E':{'C':8,'D':3},
-    'F':{'D':6}
+    '0':{'1':2,'3':7,'2':6},
+    '1':{'0':2,'3':3,'4':6},
+    '2':{'0':6,'4':1},
+    '3':{'1':3,'0':7,'4':5},
+    '4':{'1':6,'2':1,'3':5}
 }
 # 给初始距离赋值无穷大
 def init_distance(graph,s):
@@ -37,6 +44,6 @@ def dijkstra(graph,s):
                     parent[w] = vertex
                     distance[w] = dist + graph[vertex][w]
     return parent,distance
-parent,distance = dijkstra(graph,'C')
+parent,distance = dijkstra(graph,'0')
 print(parent)
 print(distance)
