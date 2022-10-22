@@ -12,24 +12,11 @@ np.seterr(over='ignore')
 if __name__ == '__main__':
     pass
 
-# folder = "C:/Users/Administrator/Desktop/UnderwaterImageEnhancement/NonPhysical/ICM"
-folder = "C:/Users/Administrator/Desktop/Databases/Dataset"
 
-path = folder + "/InputImages"
-files = os.listdir(path)
-files =  natsort.natsorted(files)
-
-for i in range(len(files)):
-    file = files[i]
-    filepath = path + "/" + file
-    prefix = file.split('.')[0]
-    if os.path.isfile(filepath):
-        print('********    file   ********',file)
-        # img = cv2.imread('InputImages/' + file)
-        img = cv2.imread(folder + '/InputImages/' + file)
-        img = stretching(img)
-        sceneRadiance = sceneRadianceRGB(img)
-        # cv2.imwrite(folder + '/OutputImages/' + Number + 'Stretched.jpg', sceneRadiance)
-        sceneRadiance = HSVStretching(sceneRadiance)
-        sceneRadiance = sceneRadianceRGB(sceneRadiance)
-        cv2.imwrite('OutputImages/' + prefix + '_ICM.jpg', sceneRadiance)
+img = cv2.imread('111.jpg')
+img = stretching(img)
+sceneRadiance = sceneRadianceRGB(img)
+# cv2.imwrite(folder + '/OutputImages/' + Number + 'Stretched.jpg', sceneRadiance)
+sceneRadiance = HSVStretching(sceneRadiance)
+sceneRadiance = sceneRadianceRGB(sceneRadiance)
+cv2.imwrite('111_ICM.jpg', sceneRadiance)

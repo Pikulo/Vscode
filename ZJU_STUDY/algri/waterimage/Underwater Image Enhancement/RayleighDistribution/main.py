@@ -24,41 +24,24 @@ np.seterr(over='ignore')
 if __name__ == '__main__':
     pass
 
-# folder = "C:/Users/Administrator/Desktop/UnderwaterImageEnhancement/NonPhysical/RayleighDistribution"
-folder = "C:/Users/Administrator/Desktop/Databases/Dataset"
 
-path = folder + "/InputImages"
-files = os.listdir(path)
-files =  natsort.natsorted(files)
+img = cv2.imread('111.jpg')
 
-for i in range(len(files)):
-    file = files[i]
-    filepath = path + "/" + file
-    prefix = file.split('.')[0]
-    if os.path.isfile(filepath):
-        print('********    file   ********',file)
-        # img = cv2.imread('InputImages/' + file)
-        img = cv2.imread(folder + '/InputImages/' + file)
-        prefix = file.split('.')[0]
-        height = len(img)
-        width = len(img[0])
+height = len(img)
+width = len(img[0])
 
-        sceneRadiance = RGB_equalisation(img, height, width)
-        # sceneRadiance = stretching(img)
-        sceneRadiance = stretching(sceneRadiance)
-        sceneRadiance_Lower, sceneRadiance_Upper = rayleighStretching(sceneRadiance, height, width)
+sceneRadiance = RGB_equalisation(img, height, width)
+# sceneRadiance = stretching(img)
+sceneRadiance = stretching(sceneRadiance)
+sceneRadiance_Lower, sceneRadiance_Upper = rayleighStretching(sceneRadiance, height, width)
 
-        sceneRadiance = (np.float64(sceneRadiance_Lower) + np.float64(sceneRadiance_Upper)) / 2
+sceneRadiance = (np.float64(sceneRadiance_Lower) + np.float64(sceneRadiance_Upper)) / 2
 
-        # cv2.imwrite('OutputImages/' + prefix + 'Lower0.jpg', sceneRadiance_Lower)
-        # cv2.imwrite('OutputImages/' + prefix + 'Upper0.jpg', sceneRadiance_Upper)
+# cv2.imwrite('OutputImages/' + prefix + 'Lower0.jpg', sceneRadiance_Lower)
+# cv2.imwrite('OutputImages/' + prefix + 'Upper0.jpg', sceneRadiance_Upper)
 
-        sceneRadiance = HSVStretching(sceneRadiance)
-        sceneRadiance = sceneRadianceRGB(sceneRadiance)
-        cv2.imwrite('OutputImages/' + prefix + '_RayleighDistribution.jpg', sceneRadiance)
+sceneRadiance = HSVStretching(sceneRadiance)
+sceneRadiance = sceneRadianceRGB(sceneRadiance)
+cv2.imwrite('111_RayleighDistribution.jpg', sceneRadiance)
 
 
-
-endtime = datetime.datetime.now()
-time = endtime-starttime
-print('time',time)
