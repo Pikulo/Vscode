@@ -25,7 +25,7 @@ if __name__ == '__main__':
     pass
 
 
-img = cv2.imread('111.jpg')
+img = cv2.imread('111_IBLA.png')
 
 height = len(img)
 width = len(img[0])
@@ -42,6 +42,6 @@ sceneRadiance = (np.float64(sceneRadiance_Lower) + np.float64(sceneRadiance_Uppe
 
 sceneRadiance = HSVStretching(sceneRadiance)
 sceneRadiance = sceneRadianceRGB(sceneRadiance)
-cv2.imwrite('111_RayleighDistribution.jpg', sceneRadiance)
+cv2.imwrite('111_IBLA_RayleighDistribution.png', sceneRadiance)
 
 

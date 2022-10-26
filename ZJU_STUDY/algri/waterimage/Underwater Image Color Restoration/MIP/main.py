@@ -15,7 +15,7 @@ if __name__ == '__main__':
 
 # folder = "C:/Users/Administrator/Desktop/UnderwaterImageEnhancement/Physical/MIP"
 
-img = cv2.imread('111.jpg')
+img = cv2.imread('333.png')
 blockSize = 9
 largestDiff = DepthMap(img, blockSize)
 transmission = getTransmission(largestDiff)
@@ -24,5 +24,5 @@ AtomsphericLight = getAtomsphericLight(transmission, img)
 sceneRadiance = sceneRadianceRGB(img, transmission, AtomsphericLight)
 
 # cv2.imwrite('OutputImages/' + prefix + '_CLAHE.jpg', sceneRadiance)
-cv2.imwrite('111_MIP_TM.jpg', np.uint8(transmission * 255))
-cv2.imwrite('111_MIP.jpg', sceneRadiance)
+cv2.imwrite('333_TM.png', np.uint8(transmission * 255))
+cv2.imwrite('333_MIP.png', sceneRadiance)

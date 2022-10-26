@@ -38,7 +38,7 @@ starttime = datetime.datetime.now()
 #     prefix = file.split('.')[0]
 #     if os.path.isfile(filepath):
 #         print('********    file   ********',file)
-img = cv2.imread('111.jpg')
+img = cv2.imread('333.png')
 blockSize = 9
 n = 5
 RGB_Darkchannel = getRGB_Darkchannel(img, blockSize)
@@ -77,7 +77,8 @@ sceneRadiance = sceneRadianceRGB(img, transmissionB, transmissionG, transmission
 
 # sceneRadiance =  RecoverHE(sceneRadiance)
 # cv2.imwrite('OutputImages/' + prefix + '_IBLA_HE.jpg', sceneRadiance)
-cv2.imwrite('111_IBLA.jpg', sceneRadiance)
+cv2.imwrite('333_TM.png', np.uint8(transmissionR * 255))
+cv2.imwrite('333_IBLA.png', sceneRadiance)
 
 
 Endtime = datetime.datetime.now()
