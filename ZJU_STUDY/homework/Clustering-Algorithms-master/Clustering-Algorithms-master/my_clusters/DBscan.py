@@ -29,16 +29,23 @@ print(data)
 # data = data_o.copy()
 # print(data)
 
+'''绘图颜色'''
+colors = ['#9D18D2', '#E1CD6D', '#56A2B5', '#5638F1', '#1331E5', '#888F7F', '#5D4EC9', '#2BABFA', '#8F83A9', '#4EF6E3', '#E6991A', '#669D8D', '#F45E3C', '#424D92', '#729BD5', '#9E65CD', '#7664CB', '#F81B15', '#1D98AC', '#C74B18', '#8DA429', '#9538AA', '#77F5E6', '#6EAE92', '#1FCD46', '#985CAA', '#73BBC6', '#D1E895', '#F2F244', '#4AE446', '#5338C3', '#441D55', '#5B7D69', '#D9DFE1', '#A3D74D', '#39B7B5', '#5FB888', '#E59E23', '#59D675', '#3C3D78', '#89B1ED']
+
+
 '''调参'''
 plt.rcParams['font.sans-serif'] = ['SimHei']
 plt.rcParams['axes.unicode_minus'] = False 
 label_eps = []
+# fig = plt.subplots(3,3)
 fig = plt.figure(figsize=(8,8))
-for eps in np.arange(0.1,5,0.5):
+num_plt = 1
+for eps in np.arange(1.5,6,0.5):
     # 迭代不同的min_samples值
+    plt.subplot(3,3,num_plt)
     x_sam = []
     num_typ = []
-    for min_samples in range(50,120):
+    for min_samples in range(1,120):
         x_sam.append(min_samples)
         db = DBSCAN(eps=eps,min_samples = min_samples)
         db.fit(data.values)
@@ -52,11 +59,12 @@ for eps in np.arange(0.1,5,0.5):
         print("每簇包含的样本数量:",np.unique(db_pre_lab,return_counts = True))
         # print("聚类效果V测度: %.4f"%v_measure_score(data_o[:]['label'],db_pre_lab)) # 数据不包含类比
         print("============================")
-    plt.plot(x_sam, num_typ, linestyle='-', label='{0}'.format(eps))
-plt.xlabel('min_samples')
-plt.ylabel('eps')
-plt.legend()
-fig.tight_layout()
+    plt.plot(x_sam, num_typ, linestyle='-', label='eps:{0}'.format(eps),color=colors[num_plt-1])
+    plt.xlabel('Min_samples')
+    plt.ylabel('Number of clusters')
+    plt.legend()
+    fig.tight_layout()
+    num_plt+=1
 plt.show()
 
 
@@ -74,7 +82,6 @@ plt.show()
 # fig = plt.figure(figsize=(8,8))
 # ax = fig.add_subplot(111, projection='3d')
 # X = data.columns.values
-# colors = ['#9D18D2', '#E1CD6D', '#56A2B5', '#5638F1', '#1331E5', '#888F7F', '#5D4EC9', '#2BABFA', '#8F83A9', '#4EF6E3', '#E6991A', '#669D8D', '#F45E3C', '#424D92', '#729BD5', '#9E65CD', '#7664CB', '#F81B15', '#1D98AC', '#C74B18', '#8DA429', '#9538AA', '#77F5E6', '#6EAE92', '#1FCD46', '#985CAA', '#73BBC6', '#D1E895', '#F2F244', '#4AE446', '#5338C3', '#441D55', '#5B7D69', '#D9DFE1', '#A3D74D', '#39B7B5', '#5FB888', '#E59E23', '#59D675', '#3C3D78', '#89B1ED']
 # list_label = list(set(db.labels_))
 # # print(list_label)
 # for j in range(len(list_label)):
