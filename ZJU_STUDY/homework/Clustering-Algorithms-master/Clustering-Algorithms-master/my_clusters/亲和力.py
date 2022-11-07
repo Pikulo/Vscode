@@ -1,16 +1,13 @@
 from multiprocessing.dummy import Array
 import numpy as np
-from numpy import unique
-from numpy import where
 from sklearn.datasets import make_classification
 from sklearn.cluster import AffinityPropagation
 from matplotlib import pyplot as plt
 import pandas as pd
 from mpl_toolkits.mplot3d import Axes3D
 from sklearn.preprocessing import StandardScaler
-from sklearn.cluster import KMeans
-from sklearn.metrics import silhouette_score
-from sklearn.metrics.cluster import v_measure_score
+
+
 
 data_o = pd.read_excel('聚类大作业--41天数据.xls', header=None) 
 # print(data_o)
