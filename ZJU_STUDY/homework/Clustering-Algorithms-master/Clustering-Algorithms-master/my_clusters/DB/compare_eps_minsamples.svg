@@ -1,0 +1,3387 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+  "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns:xlink="http://www.w3.org/1999/xlink" width="720pt" height="720pt" viewBox="0 0 720 720" xmlns="http://www.w3.org/2000/svg" version="1.1">
+ <metadata>
+  <rdf:RDF xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+   <cc:Work>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:date>2022-11-07T15:07:49.020855</dc:date>
+    <dc:format>image/svg+xml</dc:format>
+    <dc:creator>
+     <cc:Agent>
+      <dc:title>Matplotlib v3.6.0, https://matplotlib.org/</dc:title>
+     </cc:Agent>
+    </dc:creator>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <defs>
+  <style type="text/css">*{stroke-linejoin: round; stroke-linecap: butt}</style>
+ </defs>
+ <g id="figure_1">
+  <g id="patch_1">
+   <path d="M 0 720 
+L 720 720 
+L 720 0 
+L 0 0 
+z
+" style="fill: #ffffff"/>
+  </g>
+  <g id="axes_1">
+   <g id="patch_2">
+    <path d="M 40.52 208.03 
+L 236.4 208.03 
+L 236.4 10.8 
+L 40.52 10.8 
+z
+" style="fill: #ffffff"/>
+   </g>
+   <g id="matplotlib.axis_1">
+    <g id="xtick_1">
+     <g id="line2d_1">
+      <defs>
+       <path id="mc3ad139e2e" d="M 0 0 
+L 0 3.5 
+" style="stroke: #000000; stroke-width: 0.8"/>
+      </defs>
+      <g>
+       <use xlink:href="#mc3ad139e2e" x="71.682727" y="208.03" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_1">
+      <!-- 2 -->
+      <g transform="translate(69.182727 221.905) scale(0.1 -0.1)">
+       <defs>
+        <path id="SimHei-32" d="M 300 250 
+Q 325 625 650 925 
+Q 975 1225 1475 1862 
+Q 1975 2500 2125 2850 
+Q 2275 3200 2237 3450 
+Q 2200 3700 2000 3862 
+Q 1800 4025 1537 4000 
+Q 1275 3975 1037 3800 
+Q 800 3625 675 3275 
+L 200 3350 
+Q 400 3925 712 4187 
+Q 1025 4450 1450 4475 
+Q 1700 4500 1900 4462 
+Q 2100 4425 2312 4287 
+Q 2525 4150 2662 3875 
+Q 2800 3600 2762 3212 
+Q 2725 2825 2375 2287 
+Q 2025 1750 1025 600 
+L 2825 600 
+L 2825 150 
+L 300 150 
+L 300 250 
+z
+" transform="scale(0.015625)"/>
+       </defs>
+       <use xlink:href="#SimHei-32"/>
+      </g>
+     </g>
+    </g>
+    <g id="xtick_2">
+     <g id="line2d_2">
+      <g>
+       <use xlink:href="#mc3ad139e2e" x="116.200909" y="208.03" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_2">
+      <!-- 4 -->
+      <g transform="translate(113.700909 221.905) scale(0.1 -0.1)">
+       <defs>
+        <path id="SimHei-34" d="M 2000 1100 
+L 75 1100 
+L 75 1525 
+L 2100 4450 
+L 2475 4450 
+L 2475 1525 
+L 3075 1525 
+L 3075 1100 
+L 2475 1100 
+L 2475 150 
+L 2000 150 
+L 2000 1100 
+z
+M 2000 1525 
+L 2000 3500 
+L 600 1525 
+L 2000 1525 
+z
+" transform="scale(0.015625)"/>
+       </defs>
+       <use xlink:href="#SimHei-34"/>
+      </g>
+     </g>
+    </g>
+    <g id="xtick_3">
+     <g id="line2d_3">
+      <g>
+       <use xlink:href="#mc3ad139e2e" x="160.719091" y="208.03" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_3">
+      <!-- 6 -->
+      <g transform="translate(158.219091 221.905) scale(0.1 -0.1)">
+       <defs>
+        <path id="SimHei-36" d="M 250 1612 
+Q 275 1975 387 2225 
+Q 500 2475 725 2850 
+L 1750 4450 
+L 2325 4450 
+L 1275 2800 
+Q 1950 2975 2350 2750 
+Q 2750 2525 2887 2237 
+Q 3025 1950 3037 1612 
+Q 3050 1275 2937 950 
+Q 2825 625 2537 362 
+Q 2250 100 1737 75 
+Q 1225 50 862 262 
+Q 500 475 362 862 
+Q 225 1250 250 1612 
+z
+M 1025 787 
+Q 1250 550 1625 525 
+Q 2000 500 2250 775 
+Q 2500 1050 2500 1575 
+Q 2500 2100 2187 2300 
+Q 1875 2500 1487 2450 
+Q 1100 2400 925 2075 
+Q 750 1750 775 1387 
+Q 800 1025 1025 787 
+z
+" transform="scale(0.015625)"/>
+       </defs>
+       <use xlink:href="#SimHei-36"/>
+      </g>
+     </g>
+    </g>
+    <g id="xtick_4">
+     <g id="line2d_4">
+      <g>
+       <use xlink:href="#mc3ad139e2e" x="205.237273" y="208.03" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_4">
+      <!-- 8 -->
+      <g transform="translate(202.737273 221.905) scale(0.1 -0.1)">
+       <defs>
+        <path id="SimHei-38" d="M 175 1375 
+Q 175 1675 325 1962 
+Q 475 2250 825 2425 
+Q 525 2600 425 2812 
+Q 325 3025 312 3300 
+Q 300 3575 387 3775 
+Q 475 3975 650 4150 
+Q 825 4325 1037 4387 
+Q 1250 4450 1500 4450 
+Q 1750 4450 1950 4400 
+Q 2150 4350 2375 4187 
+Q 2600 4025 2700 3725 
+Q 2800 3425 2687 3025 
+Q 2575 2625 2100 2400 
+Q 2525 2275 2700 2012 
+Q 2875 1750 2875 1375 
+Q 2875 1000 2762 775 
+Q 2650 550 2512 400 
+Q 2375 250 2137 162 
+Q 1900 75 1537 75 
+Q 1175 75 912 162 
+Q 650 250 475 425 
+Q 300 600 237 837 
+Q 175 1075 175 1375 
+z
+M 687 1400 
+Q 675 1100 787 875 
+Q 900 650 1200 587 
+Q 1500 525 1825 600 
+Q 2150 675 2275 950 
+Q 2400 1225 2362 1500 
+Q 2325 1775 2050 1962 
+Q 1775 2150 1450 2125 
+Q 1125 2100 912 1900 
+Q 700 1700 687 1400 
+z
+M 775 3350 
+Q 775 3100 950 2875 
+Q 1125 2650 1500 2650 
+Q 1875 2650 2062 2875 
+Q 2250 3100 2237 3412 
+Q 2225 3725 2012 3875 
+Q 1800 4025 1437 4000 
+Q 1075 3975 925 3787 
+Q 775 3600 775 3350 
+z
+" transform="scale(0.015625)"/>
+       </defs>
+       <use xlink:href="#SimHei-38"/>
+      </g>
+     </g>
+    </g>
+    <g id="text_5">
+     <!-- Min_samples -->
+     <g transform="translate(110.96 234.03) scale(0.1 -0.1)">
+      <defs>
+       <path id="SimHei-4d" d="M 2925 125 
+L 2425 125 
+L 2425 3175 
+L 2375 3175 
+L 1775 125 
+L 1375 125 
+L 775 3175 
+L 725 3175 
+L 725 125 
+L 225 125 
+L 225 4400 
+L 1000 4400 
+L 1550 1575 
+L 1600 1575 
+L 2150 4400 
+L 2925 4400 
+L 2925 125 
+z
+" transform="scale(0.015625)"/>
+       <path id="SimHei-69" d="M 1800 3725 
+L 1300 3725 
+L 1300 4375 
+L 1800 4375 
+L 1800 3725 
+z
+M 1800 125 
+L 1300 125 
+L 1300 2925 
+L 1800 2925 
+L 1800 125 
+z
+" transform="scale(0.015625)"/>
+       <path id="SimHei-6e" d="M 2800 125 
+L 2300 125 
+L 2300 1925 
+Q 2300 2225 2150 2400 
+Q 2000 2575 1750 2575 
+Q 1425 2575 1137 2237 
+Q 850 1900 850 1400 
+L 850 125 
+L 350 125 
+L 350 2925 
+L 850 2925 
+L 850 2400 
+Q 1050 2675 1287 2825 
+Q 1525 2975 1900 2975 
+Q 2350 2975 2575 2725 
+Q 2800 2475 2800 2100 
+L 2800 125 
+z
+" transform="scale(0.015625)"/>
+       <path id="SimHei-5f" d="M 3150 -850 
+L 0 -850 
+L 0 -550 
+L 3150 -550 
+L 3150 -850 
+z
+" transform="scale(0.015625)"/>
+       <path id="SimHei-73" d="M 2750 900 
+Q 2750 500 2437 287 
+Q 2125 75 1650 75 
+Q 1050 75 725 312 
+Q 400 550 400 1000 
+L 900 1000 
+Q 900 700 1112 600 
+Q 1325 500 1625 500 
+Q 1925 500 2075 612 
+Q 2225 725 2225 900 
+Q 2225 1025 2100 1150 
+Q 1975 1275 1475 1350 
+Q 900 1425 687 1637 
+Q 475 1850 475 2200 
+Q 475 2500 762 2737 
+Q 1050 2975 1600 2975 
+Q 2100 2975 2387 2750 
+Q 2675 2525 2675 2150 
+L 2175 2150 
+Q 2175 2375 2012 2462 
+Q 1850 2550 1600 2550 
+Q 1275 2550 1137 2437 
+Q 1000 2325 1000 2175 
+Q 1000 2000 1125 1900 
+Q 1250 1800 1650 1750 
+Q 2300 1650 2525 1437 
+Q 2750 1225 2750 900 
+z
+" transform="scale(0.015625)"/>
+       <path id="SimHei-61" d="M 2875 125 
+L 2275 125 
+Q 2225 175 2200 262 
+Q 2175 350 2175 475 
+Q 2000 275 1750 175 
+Q 1500 75 1225 75 
+Q 825 75 550 275 
+Q 275 475 275 850 
+Q 275 1225 525 1450 
+Q 775 1675 1300 1750 
+Q 1650 1800 1912 1875 
+Q 2175 1950 2175 2075 
+Q 2175 2225 2062 2375 
+Q 1950 2525 1575 2525 
+Q 1275 2525 1137 2412 
+Q 1000 2300 950 2100 
+L 400 2100 
+Q 450 2500 762 2737 
+Q 1075 2975 1575 2975 
+Q 2125 2975 2400 2725 
+Q 2675 2475 2675 2025 
+L 2675 650 
+Q 2675 500 2725 375 
+Q 2775 250 2875 125 
+z
+M 2175 1050 
+L 2175 1550 
+Q 2025 1500 1887 1462 
+Q 1750 1425 1425 1375 
+Q 1050 1325 937 1200 
+Q 825 1075 825 900 
+Q 825 750 937 637 
+Q 1050 525 1275 525 
+Q 1500 525 1762 650 
+Q 2025 775 2175 1050 
+z
+" transform="scale(0.015625)"/>
+       <path id="SimHei-6d" d="M 3050 125 
+L 2550 125 
+L 2550 2150 
+Q 2550 2300 2500 2400 
+Q 2450 2500 2300 2500 
+Q 2125 2500 1975 2312 
+Q 1825 2125 1825 1825 
+L 1825 125 
+L 1325 125 
+L 1325 2150 
+Q 1325 2300 1275 2400 
+Q 1225 2500 1075 2500 
+Q 900 2500 750 2312 
+Q 600 2125 600 1825 
+L 600 125 
+L 100 125 
+L 100 2925 
+L 600 2925 
+L 600 2550 
+Q 725 2750 900 2862 
+Q 1075 2975 1275 2975 
+Q 1475 2975 1612 2862 
+Q 1750 2750 1800 2550 
+Q 1925 2750 2087 2862 
+Q 2250 2975 2450 2975 
+Q 2750 2975 2900 2812 
+Q 3050 2650 3050 2350 
+L 3050 125 
+z
+" transform="scale(0.015625)"/>
+       <path id="SimHei-70" d="M 2825 1525 
+Q 2825 800 2475 425 
+Q 2125 50 1625 50 
+Q 1350 50 1150 162 
+Q 950 275 800 500 
+L 800 -800 
+L 300 -800 
+L 300 2925 
+L 800 2925 
+L 800 2550 
+Q 950 2775 1150 2875 
+Q 1350 2975 1625 2975 
+Q 2125 2975 2475 2612 
+Q 2825 2250 2825 1525 
+z
+M 2275 1525 
+Q 2275 2000 2087 2262 
+Q 1900 2525 1525 2525 
+Q 1225 2525 1012 2262 
+Q 800 2000 800 1525 
+Q 800 1050 1012 775 
+Q 1225 500 1525 500 
+Q 1900 500 2087 775 
+Q 2275 1050 2275 1525 
+z
+" transform="scale(0.015625)"/>
+       <path id="SimHei-6c" d="M 1825 125 
+L 1325 125 
+L 1325 4400 
+L 1825 4400 
+L 1825 125 
+z
+" transform="scale(0.015625)"/>
+       <path id="SimHei-65" d="M 2850 1075 
+Q 2800 625 2450 350 
+Q 2100 75 1625 75 
+Q 1025 75 637 462 
+Q 250 850 250 1525 
+Q 250 2200 637 2587 
+Q 1025 2975 1625 2975 
+Q 2150 2975 2487 2637 
+Q 2825 2300 2825 1525 
+L 800 1525 
+Q 800 975 1037 750 
+Q 1275 525 1625 525 
+Q 1900 525 2075 662 
+Q 2250 800 2300 1075 
+L 2850 1075 
+z
+M 2250 1925 
+Q 2200 2275 2025 2412 
+Q 1850 2550 1575 2550 
+Q 1325 2550 1125 2412 
+Q 925 2275 825 1925 
+L 2250 1925 
+z
+" transform="scale(0.015625)"/>
+      </defs>
+      <use xlink:href="#SimHei-4d"/>
+      <use xlink:href="#SimHei-69" x="50"/>
+      <use xlink:href="#SimHei-6e" x="100"/>
+      <use xlink:href="#SimHei-5f" x="150"/>
+      <use xlink:href="#SimHei-73" x="200"/>
+      <use xlink:href="#SimHei-61" x="250"/>
+      <use xlink:href="#SimHei-6d" x="300"/>
+      <use xlink:href="#SimHei-70" x="350"/>
+      <use xlink:href="#SimHei-6c" x="400"/>
+      <use xlink:href="#SimHei-65" x="450"/>
+      <use xlink:href="#SimHei-73" x="500"/>
+     </g>
+    </g>
+   </g>
+   <g id="matplotlib.axis_2">
+    <g id="ytick_1">
+     <g id="line2d_5">
+      <defs>
+       <path id="m8c0c25ddf6" d="M 0 0 
+L -3.5 0 
+" style="stroke: #000000; stroke-width: 0.8"/>
+      </defs>
+      <g>
+       <use xlink:href="#m8c0c25ddf6" x="40.52" y="203.5475" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_6">
+      <!-- 0 -->
+      <g transform="translate(28.52 206.985) scale(0.1 -0.1)">
+       <defs>
+        <path id="SimHei-30" d="M 225 2537 
+Q 250 3200 412 3587 
+Q 575 3975 875 4225 
+Q 1175 4475 1612 4475 
+Q 2050 4475 2375 4112 
+Q 2700 3750 2800 3200 
+Q 2900 2650 2862 1937 
+Q 2825 1225 2612 775 
+Q 2400 325 1975 150 
+Q 1550 -25 1125 187 
+Q 700 400 525 750 
+Q 350 1100 275 1487 
+Q 200 1875 225 2537 
+z
+M 750 2687 
+Q 675 2000 800 1462 
+Q 925 925 1212 700 
+Q 1500 475 1800 612 
+Q 2100 750 2237 1162 
+Q 2375 1575 2375 2062 
+Q 2375 2550 2337 2950 
+Q 2300 3350 2112 3675 
+Q 1925 4000 1612 4012 
+Q 1300 4025 1062 3700 
+Q 825 3375 750 2687 
+z
+" transform="scale(0.015625)"/>
+       </defs>
+       <use xlink:href="#SimHei-30"/>
+      </g>
+     </g>
+    </g>
+    <g id="ytick_2">
+     <g id="line2d_6">
+      <g>
+       <use xlink:href="#m8c0c25ddf6" x="40.52" y="181.135" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_7">
+      <!-- 5 -->
+      <g transform="translate(28.52 184.5725) scale(0.1 -0.1)">
+       <defs>
+        <path id="SimHei-35" d="M 550 1325 
+Q 725 650 1150 575 
+Q 1575 500 1837 662 
+Q 2100 825 2212 1087 
+Q 2325 1350 2312 1675 
+Q 2300 2000 2137 2225 
+Q 1975 2450 1725 2525 
+Q 1475 2600 1162 2525 
+Q 850 2450 650 2175 
+L 225 2225 
+Q 275 2375 700 4375 
+L 2675 4375 
+L 2675 3925 
+L 1075 3925 
+Q 950 3250 825 2850 
+Q 1200 3025 1525 3012 
+Q 1850 3000 2150 2862 
+Q 2450 2725 2587 2487 
+Q 2725 2250 2787 2012 
+Q 2850 1775 2837 1500 
+Q 2825 1225 2725 937 
+Q 2625 650 2425 462 
+Q 2225 275 1937 162 
+Q 1650 50 1275 75 
+Q 900 100 562 350 
+Q 225 600 100 1200 
+L 550 1325 
+z
+" transform="scale(0.015625)"/>
+       </defs>
+       <use xlink:href="#SimHei-35"/>
+      </g>
+     </g>
+    </g>
+    <g id="ytick_3">
+     <g id="line2d_7">
+      <g>
+       <use xlink:href="#m8c0c25ddf6" x="40.52" y="158.7225" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_8">
+      <!-- 10 -->
+      <g transform="translate(23.52 162.16) scale(0.1 -0.1)">
+       <defs>
+        <path id="SimHei-31" d="M 1400 3600 
+Q 1075 3275 575 2975 
+L 575 3450 
+Q 1200 3875 1600 4450 
+L 1900 4450 
+L 1900 150 
+L 1400 150 
+L 1400 3600 
+z
+" transform="scale(0.015625)"/>
+       </defs>
+       <use xlink:href="#SimHei-31"/>
+       <use xlink:href="#SimHei-30" x="50"/>
+      </g>
+     </g>
+    </g>
+    <g id="ytick_4">
+     <g id="line2d_8">
+      <g>
+       <use xlink:href="#m8c0c25ddf6" x="40.52" y="136.31" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_9">
+      <!-- 15 -->
+      <g transform="translate(23.52 139.7475) scale(0.1 -0.1)">
+       <use xlink:href="#SimHei-31"/>
+       <use xlink:href="#SimHei-35" x="50"/>
+      </g>
+     </g>
+    </g>
+    <g id="ytick_5">
+     <g id="line2d_9">
+      <g>
+       <use xlink:href="#m8c0c25ddf6" x="40.52" y="113.8975" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_10">
+      <!-- 20 -->
+      <g transform="translate(23.52 117.335) scale(0.1 -0.1)">
+       <use xlink:href="#SimHei-32"/>
+       <use xlink:href="#SimHei-30" x="50"/>
+      </g>
+     </g>
+    </g>
+    <g id="ytick_6">
+     <g id="line2d_10">
+      <g>
+       <use xlink:href="#m8c0c25ddf6" x="40.52" y="91.485" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_11">
+      <!-- 25 -->
+      <g transform="translate(23.52 94.9225) scale(0.1 -0.1)">
+       <use xlink:href="#SimHei-32"/>
+       <use xlink:href="#SimHei-35" x="50"/>
+      </g>
+     </g>
+    </g>
+    <g id="ytick_7">
+     <g id="line2d_11">
+      <g>
+       <use xlink:href="#m8c0c25ddf6" x="40.52" y="69.0725" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_12">
+      <!-- 30 -->
+      <g transform="translate(23.52 72.51) scale(0.1 -0.1)">
+       <defs>
+        <path id="SimHei-33" d="M 250 1225 
+L 700 1300 
+Q 800 975 1025 762 
+Q 1250 550 1587 562 
+Q 1925 575 2125 837 
+Q 2325 1100 2300 1437 
+Q 2275 1775 2037 1962 
+Q 1800 2150 1275 2225 
+L 1275 2550 
+Q 1800 2600 2037 2825 
+Q 2275 3050 2250 3412 
+Q 2225 3775 1925 3937 
+Q 1625 4100 1287 3975 
+Q 950 3850 750 3275 
+L 300 3350 
+Q 450 3800 712 4100 
+Q 975 4400 1425 4450 
+Q 1875 4500 2212 4337 
+Q 2550 4175 2687 3837 
+Q 2825 3500 2725 3100 
+Q 2625 2700 2150 2400 
+Q 2500 2250 2687 1950 
+Q 2875 1650 2812 1162 
+Q 2750 675 2375 375 
+Q 2000 75 1525 87 
+Q 1050 100 700 387 
+Q 350 675 250 1225 
+z
+" transform="scale(0.015625)"/>
+       </defs>
+       <use xlink:href="#SimHei-33"/>
+       <use xlink:href="#SimHei-30" x="50"/>
+      </g>
+     </g>
+    </g>
+    <g id="ytick_8">
+     <g id="line2d_12">
+      <g>
+       <use xlink:href="#m8c0c25ddf6" x="40.52" y="46.66" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_13">
+      <!-- 35 -->
+      <g transform="translate(23.52 50.0975) scale(0.1 -0.1)">
+       <use xlink:href="#SimHei-33"/>
+       <use xlink:href="#SimHei-35" x="50"/>
+      </g>
+     </g>
+    </g>
+    <g id="ytick_9">
+     <g id="line2d_13">
+      <g>
+       <use xlink:href="#m8c0c25ddf6" x="40.52" y="24.2475" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_14">
+      <!-- 40 -->
+      <g transform="translate(23.52 27.685) scale(0.1 -0.1)">
+       <use xlink:href="#SimHei-34"/>
+       <use xlink:href="#SimHei-30" x="50"/>
+      </g>
+     </g>
+    </g>
+    <g id="text_15">
+     <!-- Number of clusters -->
+     <g transform="translate(18.27 154.415) rotate(-90) scale(0.1 -0.1)">
+      <defs>
+       <path id="SimHei-4e" d="M 2850 125 
+L 2225 125 
+L 850 3225 
+L 825 3225 
+L 825 125 
+L 250 125 
+L 250 4400 
+L 875 4400 
+L 2250 1300 
+L 2275 1300 
+L 2275 4400 
+L 2850 4400 
+L 2850 125 
+z
+" transform="scale(0.015625)"/>
+       <path id="SimHei-75" d="M 2800 125 
+L 2300 125 
+L 2300 650 
+Q 2100 375 1862 225 
+Q 1625 75 1250 75 
+Q 800 75 575 325 
+Q 350 575 350 950 
+L 350 2925 
+L 850 2925 
+L 850 1125 
+Q 850 825 1000 650 
+Q 1150 475 1400 475 
+Q 1725 475 2012 812 
+Q 2300 1150 2300 1650 
+L 2300 2925 
+L 2800 2925 
+L 2800 125 
+z
+" transform="scale(0.015625)"/>
+       <path id="SimHei-62" d="M 2825 1525 
+Q 2825 800 2475 437 
+Q 2125 75 1625 75 
+Q 1350 75 1150 175 
+Q 950 275 800 500 
+L 800 125 
+L 300 125 
+L 300 4400 
+L 800 4400 
+L 800 2550 
+Q 950 2775 1150 2887 
+Q 1350 3000 1625 3000 
+Q 2125 3000 2475 2625 
+Q 2825 2250 2825 1525 
+z
+M 2275 1525 
+Q 2275 2000 2087 2275 
+Q 1900 2550 1525 2550 
+Q 1225 2550 1012 2275 
+Q 800 2000 800 1525 
+Q 800 1050 1012 787 
+Q 1225 525 1525 525 
+Q 1900 525 2087 787 
+Q 2275 1050 2275 1525 
+z
+" transform="scale(0.015625)"/>
+       <path id="SimHei-72" d="M 2500 2425 
+Q 2025 2500 1700 2287 
+Q 1375 2075 1150 1550 
+L 1150 125 
+L 650 125 
+L 650 2925 
+L 1150 2925 
+L 1150 2200 
+Q 1375 2600 1712 2787 
+Q 2050 2975 2500 2975 
+L 2500 2425 
+z
+" transform="scale(0.015625)"/>
+       <path id="SimHei-20" transform="scale(0.015625)"/>
+       <path id="SimHei-6f" d="M 2925 1525 
+Q 2925 875 2525 475 
+Q 2125 75 1575 75 
+Q 1025 75 625 475 
+Q 225 875 225 1525 
+Q 225 2175 625 2575 
+Q 1025 2975 1575 2975 
+Q 2125 2975 2525 2575 
+Q 2925 2175 2925 1525 
+z
+M 2375 1525 
+Q 2375 2025 2125 2275 
+Q 1875 2525 1575 2525 
+Q 1275 2525 1025 2275 
+Q 775 2025 775 1525 
+Q 775 1025 1025 775 
+Q 1275 525 1575 525 
+Q 1875 525 2125 775 
+Q 2375 1025 2375 1525 
+z
+" transform="scale(0.015625)"/>
+       <path id="SimHei-66" d="M 2850 3825 
+Q 2725 3900 2550 3950 
+Q 2375 4000 2100 4000 
+Q 1825 4000 1725 3862 
+Q 1625 3725 1625 3525 
+L 1625 2925 
+L 2650 2925 
+L 2650 2525 
+L 1625 2525 
+L 1625 125 
+L 1125 125 
+L 1125 2525 
+L 275 2525 
+L 275 2925 
+L 1125 2925 
+L 1125 3500 
+Q 1125 3950 1400 4200 
+Q 1675 4450 2125 4450 
+Q 2400 4450 2562 4412 
+Q 2725 4375 2850 4325 
+L 2850 3825 
+z
+" transform="scale(0.015625)"/>
+       <path id="SimHei-63" d="M 2850 1250 
+Q 2850 725 2487 400 
+Q 2125 75 1575 75 
+Q 1025 75 625 462 
+Q 225 850 225 1525 
+Q 225 2200 625 2587 
+Q 1025 2975 1575 2975 
+Q 2125 2975 2450 2687 
+Q 2775 2400 2775 2000 
+L 2225 2000 
+Q 2200 2300 2012 2412 
+Q 1825 2525 1575 2525 
+Q 1275 2525 1025 2287 
+Q 775 2050 775 1525 
+Q 775 1000 1025 762 
+Q 1275 525 1575 525 
+Q 1900 525 2100 700 
+Q 2300 875 2300 1250 
+L 2850 1250 
+z
+" transform="scale(0.015625)"/>
+       <path id="SimHei-74" d="M 2750 200 
+Q 2625 150 2462 112 
+Q 2300 75 2025 75 
+Q 1575 75 1300 325 
+Q 1025 575 1025 1025 
+L 1025 2525 
+L 175 2525 
+L 175 2925 
+L 1025 2925 
+L 1025 3900 
+L 1525 3900 
+L 1525 2925 
+L 2550 2925 
+L 2550 2525 
+L 1525 2525 
+L 1525 1000 
+Q 1525 800 1625 662 
+Q 1725 525 2000 525 
+Q 2275 525 2450 575 
+Q 2625 625 2750 700 
+L 2750 200 
+z
+" transform="scale(0.015625)"/>
+      </defs>
+      <use xlink:href="#SimHei-4e"/>
+      <use xlink:href="#SimHei-75" x="50"/>
+      <use xlink:href="#SimHei-6d" x="100"/>
+      <use xlink:href="#SimHei-62" x="150"/>
+      <use xlink:href="#SimHei-65" x="200"/>
+      <use xlink:href="#SimHei-72" x="250"/>
+      <use xlink:href="#SimHei-20" x="300"/>
+      <use xlink:href="#SimHei-6f" x="350"/>
+      <use xlink:href="#SimHei-66" x="400"/>
+      <use xlink:href="#SimHei-20" x="450"/>
+      <use xlink:href="#SimHei-63" x="500"/>
+      <use xlink:href="#SimHei-6c" x="550"/>
+      <use xlink:href="#SimHei-75" x="600"/>
+      <use xlink:href="#SimHei-73" x="650"/>
+      <use xlink:href="#SimHei-74" x="700"/>
+      <use xlink:href="#SimHei-65" x="750"/>
+      <use xlink:href="#SimHei-72" x="800"/>
+      <use xlink:href="#SimHei-73" x="850"/>
+     </g>
+    </g>
+   </g>
+   <g id="line2d_14">
+    <path d="M 49.423636 19.765 
+L 71.682727 199.065 
+L 93.941818 199.065 
+L 116.200909 199.065 
+L 138.46 199.065 
+L 160.719091 199.065 
+L 182.978182 199.065 
+L 205.237273 199.065 
+L 227.496364 199.065 
+" clip-path="url(#pbbaddb9508)" style="fill: none; stroke: #9d18d2; stroke-width: 1.5; stroke-linecap: square"/>
+   </g>
+   <g id="patch_3">
+    <path d="M 40.52 208.03 
+L 40.52 10.8 
+" style="fill: none; stroke: #000000; stroke-width: 0.8; stroke-linejoin: miter; stroke-linecap: square"/>
+   </g>
+   <g id="patch_4">
+    <path d="M 236.4 208.03 
+L 236.4 10.8 
+" style="fill: none; stroke: #000000; stroke-width: 0.8; stroke-linejoin: miter; stroke-linecap: square"/>
+   </g>
+   <g id="patch_5">
+    <path d="M 40.52 208.03 
+L 236.4 208.03 
+" style="fill: none; stroke: #000000; stroke-width: 0.8; stroke-linejoin: miter; stroke-linecap: square"/>
+   </g>
+   <g id="patch_6">
+    <path d="M 40.52 10.8 
+L 236.4 10.8 
+" style="fill: none; stroke: #000000; stroke-width: 0.8; stroke-linejoin: miter; stroke-linecap: square"/>
+   </g>
+   <g id="legend_1">
+    <g id="patch_7">
+     <path d="M 162.4 32.05 
+L 229.4 32.05 
+Q 231.4 32.05 231.4 30.05 
+L 231.4 17.8 
+Q 231.4 15.8 229.4 15.8 
+L 162.4 15.8 
+Q 160.4 15.8 160.4 17.8 
+L 160.4 30.05 
+Q 160.4 32.05 162.4 32.05 
+z
+" style="fill: #ffffff; opacity: 0.8; stroke: #cccccc; stroke-linejoin: miter"/>
+    </g>
+    <g id="line2d_15">
+     <path d="M 164.4 23.3 
+L 174.4 23.3 
+L 184.4 23.3 
+" style="fill: none; stroke: #9d18d2; stroke-width: 1.5; stroke-linecap: square"/>
+    </g>
+    <g id="text_16">
+     <!-- eps:0.1 -->
+     <g transform="translate(192.4 26.8) scale(0.1 -0.1)">
+      <defs>
+       <path id="SimHei-3a" d="M 1825 2425 
+L 1250 2425 
+L 1250 2975 
+L 1825 2975 
+L 1825 2425 
+z
+M 1825 125 
+L 1250 125 
+L 1250 675 
+L 1825 675 
+L 1825 125 
+z
+" transform="scale(0.015625)"/>
+       <path id="SimHei-2e" d="M 1075 125 
+L 500 125 
+L 500 675 
+L 1075 675 
+L 1075 125 
+z
+" transform="scale(0.015625)"/>
+      </defs>
+      <use xlink:href="#SimHei-65"/>
+      <use xlink:href="#SimHei-70" x="50"/>
+      <use xlink:href="#SimHei-73" x="100"/>
+      <use xlink:href="#SimHei-3a" x="150"/>
+      <use xlink:href="#SimHei-30" x="200"/>
+      <use xlink:href="#SimHei-2e" x="250"/>
+      <use xlink:href="#SimHei-31" x="300"/>
+     </g>
+    </g>
+   </g>
+  </g>
+  <g id="axes_2">
+   <g id="patch_8">
+    <path d="M 276.92 208.03 
+L 472.8 208.03 
+L 472.8 10.8 
+L 276.92 10.8 
+z
+" style="fill: #ffffff"/>
+   </g>
+   <g id="matplotlib.axis_3">
+    <g id="xtick_5">
+     <g id="line2d_16">
+      <g>
+       <use xlink:href="#mc3ad139e2e" x="308.082727" y="208.03" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_17">
+      <!-- 2 -->
+      <g transform="translate(305.582727 221.905) scale(0.1 -0.1)">
+       <use xlink:href="#SimHei-32"/>
+      </g>
+     </g>
+    </g>
+    <g id="xtick_6">
+     <g id="line2d_17">
+      <g>
+       <use xlink:href="#mc3ad139e2e" x="352.600909" y="208.03" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_18">
+      <!-- 4 -->
+      <g transform="translate(350.100909 221.905) scale(0.1 -0.1)">
+       <use xlink:href="#SimHei-34"/>
+      </g>
+     </g>
+    </g>
+    <g id="xtick_7">
+     <g id="line2d_18">
+      <g>
+       <use xlink:href="#mc3ad139e2e" x="397.119091" y="208.03" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_19">
+      <!-- 6 -->
+      <g transform="translate(394.619091 221.905) scale(0.1 -0.1)">
+       <use xlink:href="#SimHei-36"/>
+      </g>
+     </g>
+    </g>
+    <g id="xtick_8">
+     <g id="line2d_19">
+      <g>
+       <use xlink:href="#mc3ad139e2e" x="441.637273" y="208.03" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_20">
+      <!-- 8 -->
+      <g transform="translate(439.137273 221.905) scale(0.1 -0.1)">
+       <use xlink:href="#SimHei-38"/>
+      </g>
+     </g>
+    </g>
+    <g id="text_21">
+     <!-- Min_samples -->
+     <g transform="translate(347.36 234.03) scale(0.1 -0.1)">
+      <use xlink:href="#SimHei-4d"/>
+      <use xlink:href="#SimHei-69" x="50"/>
+      <use xlink:href="#SimHei-6e" x="100"/>
+      <use xlink:href="#SimHei-5f" x="150"/>
+      <use xlink:href="#SimHei-73" x="200"/>
+      <use xlink:href="#SimHei-61" x="250"/>
+      <use xlink:href="#SimHei-6d" x="300"/>
+      <use xlink:href="#SimHei-70" x="350"/>
+      <use xlink:href="#SimHei-6c" x="400"/>
+      <use xlink:href="#SimHei-65" x="450"/>
+      <use xlink:href="#SimHei-73" x="500"/>
+     </g>
+    </g>
+   </g>
+   <g id="matplotlib.axis_4">
+    <g id="ytick_10">
+     <g id="line2d_20">
+      <g>
+       <use xlink:href="#m8c0c25ddf6" x="276.92" y="203.5475" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_22">
+      <!-- 0 -->
+      <g transform="translate(264.92 206.985) scale(0.1 -0.1)">
+       <use xlink:href="#SimHei-30"/>
+      </g>
+     </g>
+    </g>
+    <g id="ytick_11">
+     <g id="line2d_21">
+      <g>
+       <use xlink:href="#m8c0c25ddf6" x="276.92" y="181.135" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_23">
+      <!-- 5 -->
+      <g transform="translate(264.92 184.5725) scale(0.1 -0.1)">
+       <use xlink:href="#SimHei-35"/>
+      </g>
+     </g>
+    </g>
+    <g id="ytick_12">
+     <g id="line2d_22">
+      <g>
+       <use xlink:href="#m8c0c25ddf6" x="276.92" y="158.7225" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_24">
+      <!-- 10 -->
+      <g transform="translate(259.92 162.16) scale(0.1 -0.1)">
+       <use xlink:href="#SimHei-31"/>
+       <use xlink:href="#SimHei-30" x="50"/>
+      </g>
+     </g>
+    </g>
+    <g id="ytick_13">
+     <g id="line2d_23">
+      <g>
+       <use xlink:href="#m8c0c25ddf6" x="276.92" y="136.31" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_25">
+      <!-- 15 -->
+      <g transform="translate(259.92 139.7475) scale(0.1 -0.1)">
+       <use xlink:href="#SimHei-31"/>
+       <use xlink:href="#SimHei-35" x="50"/>
+      </g>
+     </g>
+    </g>
+    <g id="ytick_14">
+     <g id="line2d_24">
+      <g>
+       <use xlink:href="#m8c0c25ddf6" x="276.92" y="113.8975" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_26">
+      <!-- 20 -->
+      <g transform="translate(259.92 117.335) scale(0.1 -0.1)">
+       <use xlink:href="#SimHei-32"/>
+       <use xlink:href="#SimHei-30" x="50"/>
+      </g>
+     </g>
+    </g>
+    <g id="ytick_15">
+     <g id="line2d_25">
+      <g>
+       <use xlink:href="#m8c0c25ddf6" x="276.92" y="91.485" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_27">
+      <!-- 25 -->
+      <g transform="translate(259.92 94.9225) scale(0.1 -0.1)">
+       <use xlink:href="#SimHei-32"/>
+       <use xlink:href="#SimHei-35" x="50"/>
+      </g>
+     </g>
+    </g>
+    <g id="ytick_16">
+     <g id="line2d_26">
+      <g>
+       <use xlink:href="#m8c0c25ddf6" x="276.92" y="69.0725" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_28">
+      <!-- 30 -->
+      <g transform="translate(259.92 72.51) scale(0.1 -0.1)">
+       <use xlink:href="#SimHei-33"/>
+       <use xlink:href="#SimHei-30" x="50"/>
+      </g>
+     </g>
+    </g>
+    <g id="ytick_17">
+     <g id="line2d_27">
+      <g>
+       <use xlink:href="#m8c0c25ddf6" x="276.92" y="46.66" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_29">
+      <!-- 35 -->
+      <g transform="translate(259.92 50.0975) scale(0.1 -0.1)">
+       <use xlink:href="#SimHei-33"/>
+       <use xlink:href="#SimHei-35" x="50"/>
+      </g>
+     </g>
+    </g>
+    <g id="ytick_18">
+     <g id="line2d_28">
+      <g>
+       <use xlink:href="#m8c0c25ddf6" x="276.92" y="24.2475" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_30">
+      <!-- 40 -->
+      <g transform="translate(259.92 27.685) scale(0.1 -0.1)">
+       <use xlink:href="#SimHei-34"/>
+       <use xlink:href="#SimHei-30" x="50"/>
+      </g>
+     </g>
+    </g>
+    <g id="text_31">
+     <!-- Number of clusters -->
+     <g transform="translate(254.67 154.415) rotate(-90) scale(0.1 -0.1)">
+      <use xlink:href="#SimHei-4e"/>
+      <use xlink:href="#SimHei-75" x="50"/>
+      <use xlink:href="#SimHei-6d" x="100"/>
+      <use xlink:href="#SimHei-62" x="150"/>
+      <use xlink:href="#SimHei-65" x="200"/>
+      <use xlink:href="#SimHei-72" x="250"/>
+      <use xlink:href="#SimHei-20" x="300"/>
+      <use xlink:href="#SimHei-6f" x="350"/>
+      <use xlink:href="#SimHei-66" x="400"/>
+      <use xlink:href="#SimHei-20" x="450"/>
+      <use xlink:href="#SimHei-63" x="500"/>
+      <use xlink:href="#SimHei-6c" x="550"/>
+      <use xlink:href="#SimHei-75" x="600"/>
+      <use xlink:href="#SimHei-73" x="650"/>
+      <use xlink:href="#SimHei-74" x="700"/>
+      <use xlink:href="#SimHei-65" x="750"/>
+      <use xlink:href="#SimHei-72" x="800"/>
+      <use xlink:href="#SimHei-73" x="850"/>
+     </g>
+    </g>
+   </g>
+   <g id="line2d_29">
+    <path d="M 285.823636 19.765 
+L 308.082727 199.065 
+L 330.341818 199.065 
+L 352.600909 199.065 
+L 374.86 199.065 
+L 397.119091 199.065 
+L 419.378182 199.065 
+L 441.637273 199.065 
+L 463.896364 199.065 
+" clip-path="url(#p22224b9558)" style="fill: none; stroke: #e1cd6d; stroke-width: 1.5; stroke-linecap: square"/>
+   </g>
+   <g id="patch_9">
+    <path d="M 276.92 208.03 
+L 276.92 10.8 
+" style="fill: none; stroke: #000000; stroke-width: 0.8; stroke-linejoin: miter; stroke-linecap: square"/>
+   </g>
+   <g id="patch_10">
+    <path d="M 472.8 208.03 
+L 472.8 10.8 
+" style="fill: none; stroke: #000000; stroke-width: 0.8; stroke-linejoin: miter; stroke-linecap: square"/>
+   </g>
+   <g id="patch_11">
+    <path d="M 276.92 208.03 
+L 472.8 208.03 
+" style="fill: none; stroke: #000000; stroke-width: 0.8; stroke-linejoin: miter; stroke-linecap: square"/>
+   </g>
+   <g id="patch_12">
+    <path d="M 276.92 10.8 
+L 472.8 10.8 
+" style="fill: none; stroke: #000000; stroke-width: 0.8; stroke-linejoin: miter; stroke-linecap: square"/>
+   </g>
+   <g id="legend_2">
+    <g id="patch_13">
+     <path d="M 398.8 32.05 
+L 465.8 32.05 
+Q 467.8 32.05 467.8 30.05 
+L 467.8 17.8 
+Q 467.8 15.8 465.8 15.8 
+L 398.8 15.8 
+Q 396.8 15.8 396.8 17.8 
+L 396.8 30.05 
+Q 396.8 32.05 398.8 32.05 
+z
+" style="fill: #ffffff; opacity: 0.8; stroke: #cccccc; stroke-linejoin: miter"/>
+    </g>
+    <g id="line2d_30">
+     <path d="M 400.8 23.3 
+L 410.8 23.3 
+L 420.8 23.3 
+" style="fill: none; stroke: #e1cd6d; stroke-width: 1.5; stroke-linecap: square"/>
+    </g>
+    <g id="text_32">
+     <!-- eps:0.4 -->
+     <g transform="translate(428.8 26.8) scale(0.1 -0.1)">
+      <use xlink:href="#SimHei-65"/>
+      <use xlink:href="#SimHei-70" x="50"/>
+      <use xlink:href="#SimHei-73" x="100"/>
+      <use xlink:href="#SimHei-3a" x="150"/>
+      <use xlink:href="#SimHei-30" x="200"/>
+      <use xlink:href="#SimHei-2e" x="250"/>
+      <use xlink:href="#SimHei-34" x="300"/>
+     </g>
+    </g>
+   </g>
+  </g>
+  <g id="axes_3">
+   <g id="patch_14">
+    <path d="M 513.32 208.03 
+L 709.2 208.03 
+L 709.2 10.8 
+L 513.32 10.8 
+z
+" style="fill: #ffffff"/>
+   </g>
+   <g id="matplotlib.axis_5">
+    <g id="xtick_9">
+     <g id="line2d_31">
+      <g>
+       <use xlink:href="#mc3ad139e2e" x="544.482727" y="208.03" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_33">
+      <!-- 2 -->
+      <g transform="translate(541.982727 221.905) scale(0.1 -0.1)">
+       <use xlink:href="#SimHei-32"/>
+      </g>
+     </g>
+    </g>
+    <g id="xtick_10">
+     <g id="line2d_32">
+      <g>
+       <use xlink:href="#mc3ad139e2e" x="589.000909" y="208.03" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_34">
+      <!-- 4 -->
+      <g transform="translate(586.500909 221.905) scale(0.1 -0.1)">
+       <use xlink:href="#SimHei-34"/>
+      </g>
+     </g>
+    </g>
+    <g id="xtick_11">
+     <g id="line2d_33">
+      <g>
+       <use xlink:href="#mc3ad139e2e" x="633.519091" y="208.03" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_35">
+      <!-- 6 -->
+      <g transform="translate(631.019091 221.905) scale(0.1 -0.1)">
+       <use xlink:href="#SimHei-36"/>
+      </g>
+     </g>
+    </g>
+    <g id="xtick_12">
+     <g id="line2d_34">
+      <g>
+       <use xlink:href="#mc3ad139e2e" x="678.037273" y="208.03" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_36">
+      <!-- 8 -->
+      <g transform="translate(675.537273 221.905) scale(0.1 -0.1)">
+       <use xlink:href="#SimHei-38"/>
+      </g>
+     </g>
+    </g>
+    <g id="text_37">
+     <!-- Min_samples -->
+     <g transform="translate(583.76 234.03) scale(0.1 -0.1)">
+      <use xlink:href="#SimHei-4d"/>
+      <use xlink:href="#SimHei-69" x="50"/>
+      <use xlink:href="#SimHei-6e" x="100"/>
+      <use xlink:href="#SimHei-5f" x="150"/>
+      <use xlink:href="#SimHei-73" x="200"/>
+      <use xlink:href="#SimHei-61" x="250"/>
+      <use xlink:href="#SimHei-6d" x="300"/>
+      <use xlink:href="#SimHei-70" x="350"/>
+      <use xlink:href="#SimHei-6c" x="400"/>
+      <use xlink:href="#SimHei-65" x="450"/>
+      <use xlink:href="#SimHei-73" x="500"/>
+     </g>
+    </g>
+   </g>
+   <g id="matplotlib.axis_6">
+    <g id="ytick_19">
+     <g id="line2d_35">
+      <g>
+       <use xlink:href="#m8c0c25ddf6" x="513.32" y="203.5475" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_38">
+      <!-- 0 -->
+      <g transform="translate(501.32 206.985) scale(0.1 -0.1)">
+       <use xlink:href="#SimHei-30"/>
+      </g>
+     </g>
+    </g>
+    <g id="ytick_20">
+     <g id="line2d_36">
+      <g>
+       <use xlink:href="#m8c0c25ddf6" x="513.32" y="181.135" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_39">
+      <!-- 5 -->
+      <g transform="translate(501.32 184.5725) scale(0.1 -0.1)">
+       <use xlink:href="#SimHei-35"/>
+      </g>
+     </g>
+    </g>
+    <g id="ytick_21">
+     <g id="line2d_37">
+      <g>
+       <use xlink:href="#m8c0c25ddf6" x="513.32" y="158.7225" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_40">
+      <!-- 10 -->
+      <g transform="translate(496.32 162.16) scale(0.1 -0.1)">
+       <use xlink:href="#SimHei-31"/>
+       <use xlink:href="#SimHei-30" x="50"/>
+      </g>
+     </g>
+    </g>
+    <g id="ytick_22">
+     <g id="line2d_38">
+      <g>
+       <use xlink:href="#m8c0c25ddf6" x="513.32" y="136.31" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_41">
+      <!-- 15 -->
+      <g transform="translate(496.32 139.7475) scale(0.1 -0.1)">
+       <use xlink:href="#SimHei-31"/>
+       <use xlink:href="#SimHei-35" x="50"/>
+      </g>
+     </g>
+    </g>
+    <g id="ytick_23">
+     <g id="line2d_39">
+      <g>
+       <use xlink:href="#m8c0c25ddf6" x="513.32" y="113.8975" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_42">
+      <!-- 20 -->
+      <g transform="translate(496.32 117.335) scale(0.1 -0.1)">
+       <use xlink:href="#SimHei-32"/>
+       <use xlink:href="#SimHei-30" x="50"/>
+      </g>
+     </g>
+    </g>
+    <g id="ytick_24">
+     <g id="line2d_40">
+      <g>
+       <use xlink:href="#m8c0c25ddf6" x="513.32" y="91.485" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_43">
+      <!-- 25 -->
+      <g transform="translate(496.32 94.9225) scale(0.1 -0.1)">
+       <use xlink:href="#SimHei-32"/>
+       <use xlink:href="#SimHei-35" x="50"/>
+      </g>
+     </g>
+    </g>
+    <g id="ytick_25">
+     <g id="line2d_41">
+      <g>
+       <use xlink:href="#m8c0c25ddf6" x="513.32" y="69.0725" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_44">
+      <!-- 30 -->
+      <g transform="translate(496.32 72.51) scale(0.1 -0.1)">
+       <use xlink:href="#SimHei-33"/>
+       <use xlink:href="#SimHei-30" x="50"/>
+      </g>
+     </g>
+    </g>
+    <g id="ytick_26">
+     <g id="line2d_42">
+      <g>
+       <use xlink:href="#m8c0c25ddf6" x="513.32" y="46.66" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_45">
+      <!-- 35 -->
+      <g transform="translate(496.32 50.0975) scale(0.1 -0.1)">
+       <use xlink:href="#SimHei-33"/>
+       <use xlink:href="#SimHei-35" x="50"/>
+      </g>
+     </g>
+    </g>
+    <g id="ytick_27">
+     <g id="line2d_43">
+      <g>
+       <use xlink:href="#m8c0c25ddf6" x="513.32" y="24.2475" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_46">
+      <!-- 40 -->
+      <g transform="translate(496.32 27.685) scale(0.1 -0.1)">
+       <use xlink:href="#SimHei-34"/>
+       <use xlink:href="#SimHei-30" x="50"/>
+      </g>
+     </g>
+    </g>
+    <g id="text_47">
+     <!-- Number of clusters -->
+     <g transform="translate(491.07 154.415) rotate(-90) scale(0.1 -0.1)">
+      <use xlink:href="#SimHei-4e"/>
+      <use xlink:href="#SimHei-75" x="50"/>
+      <use xlink:href="#SimHei-6d" x="100"/>
+      <use xlink:href="#SimHei-62" x="150"/>
+      <use xlink:href="#SimHei-65" x="200"/>
+      <use xlink:href="#SimHei-72" x="250"/>
+      <use xlink:href="#SimHei-20" x="300"/>
+      <use xlink:href="#SimHei-6f" x="350"/>
+      <use xlink:href="#SimHei-66" x="400"/>
+      <use xlink:href="#SimHei-20" x="450"/>
+      <use xlink:href="#SimHei-63" x="500"/>
+      <use xlink:href="#SimHei-6c" x="550"/>
+      <use xlink:href="#SimHei-75" x="600"/>
+      <use xlink:href="#SimHei-73" x="650"/>
+      <use xlink:href="#SimHei-74" x="700"/>
+      <use xlink:href="#SimHei-65" x="750"/>
+      <use xlink:href="#SimHei-72" x="800"/>
+      <use xlink:href="#SimHei-73" x="850"/>
+     </g>
+    </g>
+   </g>
+   <g id="line2d_44">
+    <path d="M 522.223636 19.765 
+L 544.482727 199.065 
+L 566.741818 199.065 
+L 589.000909 199.065 
+L 611.26 199.065 
+L 633.519091 199.065 
+L 655.778182 199.065 
+L 678.037273 199.065 
+L 700.296364 199.065 
+" clip-path="url(#p6a08b10ffa)" style="fill: none; stroke: #56a2b5; stroke-width: 1.5; stroke-linecap: square"/>
+   </g>
+   <g id="patch_15">
+    <path d="M 513.32 208.03 
+L 513.32 10.8 
+" style="fill: none; stroke: #000000; stroke-width: 0.8; stroke-linejoin: miter; stroke-linecap: square"/>
+   </g>
+   <g id="patch_16">
+    <path d="M 709.2 208.03 
+L 709.2 10.8 
+" style="fill: none; stroke: #000000; stroke-width: 0.8; stroke-linejoin: miter; stroke-linecap: square"/>
+   </g>
+   <g id="patch_17">
+    <path d="M 513.32 208.03 
+L 709.2 208.03 
+" style="fill: none; stroke: #000000; stroke-width: 0.8; stroke-linejoin: miter; stroke-linecap: square"/>
+   </g>
+   <g id="patch_18">
+    <path d="M 513.32 10.8 
+L 709.2 10.8 
+" style="fill: none; stroke: #000000; stroke-width: 0.8; stroke-linejoin: miter; stroke-linecap: square"/>
+   </g>
+   <g id="legend_3">
+    <g id="patch_19">
+     <path d="M 635.2 32.05 
+L 702.2 32.05 
+Q 704.2 32.05 704.2 30.05 
+L 704.2 17.8 
+Q 704.2 15.8 702.2 15.8 
+L 635.2 15.8 
+Q 633.2 15.8 633.2 17.8 
+L 633.2 30.05 
+Q 633.2 32.05 635.2 32.05 
+z
+" style="fill: #ffffff; opacity: 0.8; stroke: #cccccc; stroke-linejoin: miter"/>
+    </g>
+    <g id="line2d_45">
+     <path d="M 637.2 23.3 
+L 647.2 23.3 
+L 657.2 23.3 
+" style="fill: none; stroke: #56a2b5; stroke-width: 1.5; stroke-linecap: square"/>
+    </g>
+    <g id="text_48">
+     <!-- eps:0.7 -->
+     <g transform="translate(665.2 26.8) scale(0.1 -0.1)">
+      <defs>
+       <path id="SimHei-37" d="M 850 150 
+Q 1300 2050 2425 3925 
+L 275 3925 
+L 275 4375 
+L 2950 4375 
+L 2950 3950 
+Q 1775 2050 1400 150 
+L 850 150 
+z
+" transform="scale(0.015625)"/>
+      </defs>
+      <use xlink:href="#SimHei-65"/>
+      <use xlink:href="#SimHei-70" x="50"/>
+      <use xlink:href="#SimHei-73" x="100"/>
+      <use xlink:href="#SimHei-3a" x="150"/>
+      <use xlink:href="#SimHei-30" x="200"/>
+      <use xlink:href="#SimHei-2e" x="250"/>
+      <use xlink:href="#SimHei-37" x="300"/>
+     </g>
+    </g>
+   </g>
+  </g>
+  <g id="axes_4">
+   <g id="patch_20">
+    <path d="M 40.52 444.43 
+L 236.4 444.43 
+L 236.4 247.2 
+L 40.52 247.2 
+z
+" style="fill: #ffffff"/>
+   </g>
+   <g id="matplotlib.axis_7">
+    <g id="xtick_13">
+     <g id="line2d_46">
+      <g>
+       <use xlink:href="#mc3ad139e2e" x="71.682727" y="444.43" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_49">
+      <!-- 2 -->
+      <g transform="translate(69.182727 458.305) scale(0.1 -0.1)">
+       <use xlink:href="#SimHei-32"/>
+      </g>
+     </g>
+    </g>
+    <g id="xtick_14">
+     <g id="line2d_47">
+      <g>
+       <use xlink:href="#mc3ad139e2e" x="116.200909" y="444.43" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_50">
+      <!-- 4 -->
+      <g transform="translate(113.700909 458.305) scale(0.1 -0.1)">
+       <use xlink:href="#SimHei-34"/>
+      </g>
+     </g>
+    </g>
+    <g id="xtick_15">
+     <g id="line2d_48">
+      <g>
+       <use xlink:href="#mc3ad139e2e" x="160.719091" y="444.43" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_51">
+      <!-- 6 -->
+      <g transform="translate(158.219091 458.305) scale(0.1 -0.1)">
+       <use xlink:href="#SimHei-36"/>
+      </g>
+     </g>
+    </g>
+    <g id="xtick_16">
+     <g id="line2d_49">
+      <g>
+       <use xlink:href="#mc3ad139e2e" x="205.237273" y="444.43" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_52">
+      <!-- 8 -->
+      <g transform="translate(202.737273 458.305) scale(0.1 -0.1)">
+       <use xlink:href="#SimHei-38"/>
+      </g>
+     </g>
+    </g>
+    <g id="text_53">
+     <!-- Min_samples -->
+     <g transform="translate(110.96 470.43) scale(0.1 -0.1)">
+      <use xlink:href="#SimHei-4d"/>
+      <use xlink:href="#SimHei-69" x="50"/>
+      <use xlink:href="#SimHei-6e" x="100"/>
+      <use xlink:href="#SimHei-5f" x="150"/>
+      <use xlink:href="#SimHei-73" x="200"/>
+      <use xlink:href="#SimHei-61" x="250"/>
+      <use xlink:href="#SimHei-6d" x="300"/>
+      <use xlink:href="#SimHei-70" x="350"/>
+      <use xlink:href="#SimHei-6c" x="400"/>
+      <use xlink:href="#SimHei-65" x="450"/>
+      <use xlink:href="#SimHei-73" x="500"/>
+     </g>
+    </g>
+   </g>
+   <g id="matplotlib.axis_8">
+    <g id="ytick_28">
+     <g id="line2d_50">
+      <g>
+       <use xlink:href="#m8c0c25ddf6" x="40.52" y="439.9475" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_54">
+      <!-- 0 -->
+      <g transform="translate(28.52 443.385) scale(0.1 -0.1)">
+       <use xlink:href="#SimHei-30"/>
+      </g>
+     </g>
+    </g>
+    <g id="ytick_29">
+     <g id="line2d_51">
+      <g>
+       <use xlink:href="#m8c0c25ddf6" x="40.52" y="417.535" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_55">
+      <!-- 5 -->
+      <g transform="translate(28.52 420.9725) scale(0.1 -0.1)">
+       <use xlink:href="#SimHei-35"/>
+      </g>
+     </g>
+    </g>
+    <g id="ytick_30">
+     <g id="line2d_52">
+      <g>
+       <use xlink:href="#m8c0c25ddf6" x="40.52" y="395.1225" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_56">
+      <!-- 10 -->
+      <g transform="translate(23.52 398.56) scale(0.1 -0.1)">
+       <use xlink:href="#SimHei-31"/>
+       <use xlink:href="#SimHei-30" x="50"/>
+      </g>
+     </g>
+    </g>
+    <g id="ytick_31">
+     <g id="line2d_53">
+      <g>
+       <use xlink:href="#m8c0c25ddf6" x="40.52" y="372.71" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_57">
+      <!-- 15 -->
+      <g transform="translate(23.52 376.1475) scale(0.1 -0.1)">
+       <use xlink:href="#SimHei-31"/>
+       <use xlink:href="#SimHei-35" x="50"/>
+      </g>
+     </g>
+    </g>
+    <g id="ytick_32">
+     <g id="line2d_54">
+      <g>
+       <use xlink:href="#m8c0c25ddf6" x="40.52" y="350.2975" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_58">
+      <!-- 20 -->
+      <g transform="translate(23.52 353.735) scale(0.1 -0.1)">
+       <use xlink:href="#SimHei-32"/>
+       <use xlink:href="#SimHei-30" x="50"/>
+      </g>
+     </g>
+    </g>
+    <g id="ytick_33">
+     <g id="line2d_55">
+      <g>
+       <use xlink:href="#m8c0c25ddf6" x="40.52" y="327.885" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_59">
+      <!-- 25 -->
+      <g transform="translate(23.52 331.3225) scale(0.1 -0.1)">
+       <use xlink:href="#SimHei-32"/>
+       <use xlink:href="#SimHei-35" x="50"/>
+      </g>
+     </g>
+    </g>
+    <g id="ytick_34">
+     <g id="line2d_56">
+      <g>
+       <use xlink:href="#m8c0c25ddf6" x="40.52" y="305.4725" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_60">
+      <!-- 30 -->
+      <g transform="translate(23.52 308.91) scale(0.1 -0.1)">
+       <use xlink:href="#SimHei-33"/>
+       <use xlink:href="#SimHei-30" x="50"/>
+      </g>
+     </g>
+    </g>
+    <g id="ytick_35">
+     <g id="line2d_57">
+      <g>
+       <use xlink:href="#m8c0c25ddf6" x="40.52" y="283.06" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_61">
+      <!-- 35 -->
+      <g transform="translate(23.52 286.4975) scale(0.1 -0.1)">
+       <use xlink:href="#SimHei-33"/>
+       <use xlink:href="#SimHei-35" x="50"/>
+      </g>
+     </g>
+    </g>
+    <g id="ytick_36">
+     <g id="line2d_58">
+      <g>
+       <use xlink:href="#m8c0c25ddf6" x="40.52" y="260.6475" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_62">
+      <!-- 40 -->
+      <g transform="translate(23.52 264.085) scale(0.1 -0.1)">
+       <use xlink:href="#SimHei-34"/>
+       <use xlink:href="#SimHei-30" x="50"/>
+      </g>
+     </g>
+    </g>
+    <g id="text_63">
+     <!-- Number of clusters -->
+     <g transform="translate(18.27 390.815) rotate(-90) scale(0.1 -0.1)">
+      <use xlink:href="#SimHei-4e"/>
+      <use xlink:href="#SimHei-75" x="50"/>
+      <use xlink:href="#SimHei-6d" x="100"/>
+      <use xlink:href="#SimHei-62" x="150"/>
+      <use xlink:href="#SimHei-65" x="200"/>
+      <use xlink:href="#SimHei-72" x="250"/>
+      <use xlink:href="#SimHei-20" x="300"/>
+      <use xlink:href="#SimHei-6f" x="350"/>
+      <use xlink:href="#SimHei-66" x="400"/>
+      <use xlink:href="#SimHei-20" x="450"/>
+      <use xlink:href="#SimHei-63" x="500"/>
+      <use xlink:href="#SimHei-6c" x="550"/>
+      <use xlink:href="#SimHei-75" x="600"/>
+      <use xlink:href="#SimHei-73" x="650"/>
+      <use xlink:href="#SimHei-74" x="700"/>
+      <use xlink:href="#SimHei-65" x="750"/>
+      <use xlink:href="#SimHei-72" x="800"/>
+      <use xlink:href="#SimHei-73" x="850"/>
+     </g>
+    </g>
+   </g>
+   <g id="line2d_59">
+    <path d="M 49.423636 256.165 
+L 71.682727 435.465 
+L 93.941818 435.465 
+L 116.200909 435.465 
+L 138.46 435.465 
+L 160.719091 435.465 
+L 182.978182 435.465 
+L 205.237273 435.465 
+L 227.496364 435.465 
+" clip-path="url(#p45573baeb3)" style="fill: none; stroke: #5638f1; stroke-width: 1.5; stroke-linecap: square"/>
+   </g>
+   <g id="patch_21">
+    <path d="M 40.52 444.43 
+L 40.52 247.2 
+" style="fill: none; stroke: #000000; stroke-width: 0.8; stroke-linejoin: miter; stroke-linecap: square"/>
+   </g>
+   <g id="patch_22">
+    <path d="M 236.4 444.43 
+L 236.4 247.2 
+" style="fill: none; stroke: #000000; stroke-width: 0.8; stroke-linejoin: miter; stroke-linecap: square"/>
+   </g>
+   <g id="patch_23">
+    <path d="M 40.52 444.43 
+L 236.4 444.43 
+" style="fill: none; stroke: #000000; stroke-width: 0.8; stroke-linejoin: miter; stroke-linecap: square"/>
+   </g>
+   <g id="patch_24">
+    <path d="M 40.52 247.2 
+L 236.4 247.2 
+" style="fill: none; stroke: #000000; stroke-width: 0.8; stroke-linejoin: miter; stroke-linecap: square"/>
+   </g>
+   <g id="legend_4">
+    <g id="patch_25">
+     <path d="M 162.4 268.45 
+L 229.4 268.45 
+Q 231.4 268.45 231.4 266.45 
+L 231.4 254.2 
+Q 231.4 252.2 229.4 252.2 
+L 162.4 252.2 
+Q 160.4 252.2 160.4 254.2 
+L 160.4 266.45 
+Q 160.4 268.45 162.4 268.45 
+z
+" style="fill: #ffffff; opacity: 0.8; stroke: #cccccc; stroke-linejoin: miter"/>
+    </g>
+    <g id="line2d_60">
+     <path d="M 164.4 259.7 
+L 174.4 259.7 
+L 184.4 259.7 
+" style="fill: none; stroke: #5638f1; stroke-width: 1.5; stroke-linecap: square"/>
+    </g>
+    <g id="text_64">
+     <!-- eps:1.0 -->
+     <g transform="translate(192.4 263.2) scale(0.1 -0.1)">
+      <use xlink:href="#SimHei-65"/>
+      <use xlink:href="#SimHei-70" x="50"/>
+      <use xlink:href="#SimHei-73" x="100"/>
+      <use xlink:href="#SimHei-3a" x="150"/>
+      <use xlink:href="#SimHei-31" x="200"/>
+      <use xlink:href="#SimHei-2e" x="250"/>
+      <use xlink:href="#SimHei-30" x="300"/>
+     </g>
+    </g>
+   </g>
+  </g>
+  <g id="axes_5">
+   <g id="patch_26">
+    <path d="M 276.92 444.43 
+L 472.8 444.43 
+L 472.8 247.2 
+L 276.92 247.2 
+z
+" style="fill: #ffffff"/>
+   </g>
+   <g id="matplotlib.axis_9">
+    <g id="xtick_17">
+     <g id="line2d_61">
+      <g>
+       <use xlink:href="#mc3ad139e2e" x="308.082727" y="444.43" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_65">
+      <!-- 2 -->
+      <g transform="translate(305.582727 458.305) scale(0.1 -0.1)">
+       <use xlink:href="#SimHei-32"/>
+      </g>
+     </g>
+    </g>
+    <g id="xtick_18">
+     <g id="line2d_62">
+      <g>
+       <use xlink:href="#mc3ad139e2e" x="352.600909" y="444.43" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_66">
+      <!-- 4 -->
+      <g transform="translate(350.100909 458.305) scale(0.1 -0.1)">
+       <use xlink:href="#SimHei-34"/>
+      </g>
+     </g>
+    </g>
+    <g id="xtick_19">
+     <g id="line2d_63">
+      <g>
+       <use xlink:href="#mc3ad139e2e" x="397.119091" y="444.43" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_67">
+      <!-- 6 -->
+      <g transform="translate(394.619091 458.305) scale(0.1 -0.1)">
+       <use xlink:href="#SimHei-36"/>
+      </g>
+     </g>
+    </g>
+    <g id="xtick_20">
+     <g id="line2d_64">
+      <g>
+       <use xlink:href="#mc3ad139e2e" x="441.637273" y="444.43" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_68">
+      <!-- 8 -->
+      <g transform="translate(439.137273 458.305) scale(0.1 -0.1)">
+       <use xlink:href="#SimHei-38"/>
+      </g>
+     </g>
+    </g>
+    <g id="text_69">
+     <!-- Min_samples -->
+     <g transform="translate(347.36 470.43) scale(0.1 -0.1)">
+      <use xlink:href="#SimHei-4d"/>
+      <use xlink:href="#SimHei-69" x="50"/>
+      <use xlink:href="#SimHei-6e" x="100"/>
+      <use xlink:href="#SimHei-5f" x="150"/>
+      <use xlink:href="#SimHei-73" x="200"/>
+      <use xlink:href="#SimHei-61" x="250"/>
+      <use xlink:href="#SimHei-6d" x="300"/>
+      <use xlink:href="#SimHei-70" x="350"/>
+      <use xlink:href="#SimHei-6c" x="400"/>
+      <use xlink:href="#SimHei-65" x="450"/>
+      <use xlink:href="#SimHei-73" x="500"/>
+     </g>
+    </g>
+   </g>
+   <g id="matplotlib.axis_10">
+    <g id="ytick_37">
+     <g id="line2d_65">
+      <g>
+       <use xlink:href="#m8c0c25ddf6" x="276.92" y="439.9475" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_70">
+      <!-- 0 -->
+      <g transform="translate(264.92 443.385) scale(0.1 -0.1)">
+       <use xlink:href="#SimHei-30"/>
+      </g>
+     </g>
+    </g>
+    <g id="ytick_38">
+     <g id="line2d_66">
+      <g>
+       <use xlink:href="#m8c0c25ddf6" x="276.92" y="417.535" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_71">
+      <!-- 5 -->
+      <g transform="translate(264.92 420.9725) scale(0.1 -0.1)">
+       <use xlink:href="#SimHei-35"/>
+      </g>
+     </g>
+    </g>
+    <g id="ytick_39">
+     <g id="line2d_67">
+      <g>
+       <use xlink:href="#m8c0c25ddf6" x="276.92" y="395.1225" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_72">
+      <!-- 10 -->
+      <g transform="translate(259.92 398.56) scale(0.1 -0.1)">
+       <use xlink:href="#SimHei-31"/>
+       <use xlink:href="#SimHei-30" x="50"/>
+      </g>
+     </g>
+    </g>
+    <g id="ytick_40">
+     <g id="line2d_68">
+      <g>
+       <use xlink:href="#m8c0c25ddf6" x="276.92" y="372.71" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_73">
+      <!-- 15 -->
+      <g transform="translate(259.92 376.1475) scale(0.1 -0.1)">
+       <use xlink:href="#SimHei-31"/>
+       <use xlink:href="#SimHei-35" x="50"/>
+      </g>
+     </g>
+    </g>
+    <g id="ytick_41">
+     <g id="line2d_69">
+      <g>
+       <use xlink:href="#m8c0c25ddf6" x="276.92" y="350.2975" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_74">
+      <!-- 20 -->
+      <g transform="translate(259.92 353.735) scale(0.1 -0.1)">
+       <use xlink:href="#SimHei-32"/>
+       <use xlink:href="#SimHei-30" x="50"/>
+      </g>
+     </g>
+    </g>
+    <g id="ytick_42">
+     <g id="line2d_70">
+      <g>
+       <use xlink:href="#m8c0c25ddf6" x="276.92" y="327.885" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_75">
+      <!-- 25 -->
+      <g transform="translate(259.92 331.3225) scale(0.1 -0.1)">
+       <use xlink:href="#SimHei-32"/>
+       <use xlink:href="#SimHei-35" x="50"/>
+      </g>
+     </g>
+    </g>
+    <g id="ytick_43">
+     <g id="line2d_71">
+      <g>
+       <use xlink:href="#m8c0c25ddf6" x="276.92" y="305.4725" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_76">
+      <!-- 30 -->
+      <g transform="translate(259.92 308.91) scale(0.1 -0.1)">
+       <use xlink:href="#SimHei-33"/>
+       <use xlink:href="#SimHei-30" x="50"/>
+      </g>
+     </g>
+    </g>
+    <g id="ytick_44">
+     <g id="line2d_72">
+      <g>
+       <use xlink:href="#m8c0c25ddf6" x="276.92" y="283.06" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_77">
+      <!-- 35 -->
+      <g transform="translate(259.92 286.4975) scale(0.1 -0.1)">
+       <use xlink:href="#SimHei-33"/>
+       <use xlink:href="#SimHei-35" x="50"/>
+      </g>
+     </g>
+    </g>
+    <g id="ytick_45">
+     <g id="line2d_73">
+      <g>
+       <use xlink:href="#m8c0c25ddf6" x="276.92" y="260.6475" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_78">
+      <!-- 40 -->
+      <g transform="translate(259.92 264.085) scale(0.1 -0.1)">
+       <use xlink:href="#SimHei-34"/>
+       <use xlink:href="#SimHei-30" x="50"/>
+      </g>
+     </g>
+    </g>
+    <g id="text_79">
+     <!-- Number of clusters -->
+     <g transform="translate(254.67 390.815) rotate(-90) scale(0.1 -0.1)">
+      <use xlink:href="#SimHei-4e"/>
+      <use xlink:href="#SimHei-75" x="50"/>
+      <use xlink:href="#SimHei-6d" x="100"/>
+      <use xlink:href="#SimHei-62" x="150"/>
+      <use xlink:href="#SimHei-65" x="200"/>
+      <use xlink:href="#SimHei-72" x="250"/>
+      <use xlink:href="#SimHei-20" x="300"/>
+      <use xlink:href="#SimHei-6f" x="350"/>
+      <use xlink:href="#SimHei-66" x="400"/>
+      <use xlink:href="#SimHei-20" x="450"/>
+      <use xlink:href="#SimHei-63" x="500"/>
+      <use xlink:href="#SimHei-6c" x="550"/>
+      <use xlink:href="#SimHei-75" x="600"/>
+      <use xlink:href="#SimHei-73" x="650"/>
+      <use xlink:href="#SimHei-74" x="700"/>
+      <use xlink:href="#SimHei-65" x="750"/>
+      <use xlink:href="#SimHei-72" x="800"/>
+      <use xlink:href="#SimHei-73" x="850"/>
+     </g>
+    </g>
+   </g>
+   <g id="line2d_74">
+    <path d="M 285.823636 256.165 
+L 308.082727 435.465 
+L 330.341818 435.465 
+L 352.600909 435.465 
+L 374.86 435.465 
+L 397.119091 435.465 
+L 419.378182 435.465 
+L 441.637273 435.465 
+L 463.896364 435.465 
+" clip-path="url(#p273449b5cd)" style="fill: none; stroke: #1331e5; stroke-width: 1.5; stroke-linecap: square"/>
+   </g>
+   <g id="patch_27">
+    <path d="M 276.92 444.43 
+L 276.92 247.2 
+" style="fill: none; stroke: #000000; stroke-width: 0.8; stroke-linejoin: miter; stroke-linecap: square"/>
+   </g>
+   <g id="patch_28">
+    <path d="M 472.8 444.43 
+L 472.8 247.2 
+" style="fill: none; stroke: #000000; stroke-width: 0.8; stroke-linejoin: miter; stroke-linecap: square"/>
+   </g>
+   <g id="patch_29">
+    <path d="M 276.92 444.43 
+L 472.8 444.43 
+" style="fill: none; stroke: #000000; stroke-width: 0.8; stroke-linejoin: miter; stroke-linecap: square"/>
+   </g>
+   <g id="patch_30">
+    <path d="M 276.92 247.2 
+L 472.8 247.2 
+" style="fill: none; stroke: #000000; stroke-width: 0.8; stroke-linejoin: miter; stroke-linecap: square"/>
+   </g>
+   <g id="legend_5">
+    <g id="patch_31">
+     <path d="M 398.8 268.48125 
+L 465.8 268.48125 
+Q 467.8 268.48125 467.8 266.48125 
+L 467.8 254.2 
+Q 467.8 252.2 465.8 252.2 
+L 398.8 252.2 
+Q 396.8 252.2 396.8 254.2 
+L 396.8 266.48125 
+Q 396.8 268.48125 398.8 268.48125 
+z
+" style="fill: #ffffff; opacity: 0.8; stroke: #cccccc; stroke-linejoin: miter"/>
+    </g>
+    <g id="line2d_75">
+     <path d="M 400.8 259.73125 
+L 410.8 259.73125 
+L 420.8 259.73125 
+" style="fill: none; stroke: #1331e5; stroke-width: 1.5; stroke-linecap: square"/>
+    </g>
+    <g id="text_80">
+     <!-- eps:1.3 -->
+     <g transform="translate(428.8 263.23125) scale(0.1 -0.1)">
+      <use xlink:href="#SimHei-65"/>
+      <use xlink:href="#SimHei-70" x="50"/>
+      <use xlink:href="#SimHei-73" x="100"/>
+      <use xlink:href="#SimHei-3a" x="150"/>
+      <use xlink:href="#SimHei-31" x="200"/>
+      <use xlink:href="#SimHei-2e" x="250"/>
+      <use xlink:href="#SimHei-33" x="300"/>
+     </g>
+    </g>
+   </g>
+  </g>
+  <g id="axes_6">
+   <g id="patch_32">
+    <path d="M 513.32 444.43 
+L 709.2 444.43 
+L 709.2 247.2 
+L 513.32 247.2 
+z
+" style="fill: #ffffff"/>
+   </g>
+   <g id="matplotlib.axis_11">
+    <g id="xtick_21">
+     <g id="line2d_76">
+      <g>
+       <use xlink:href="#mc3ad139e2e" x="544.482727" y="444.43" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_81">
+      <!-- 2 -->
+      <g transform="translate(541.982727 458.305) scale(0.1 -0.1)">
+       <use xlink:href="#SimHei-32"/>
+      </g>
+     </g>
+    </g>
+    <g id="xtick_22">
+     <g id="line2d_77">
+      <g>
+       <use xlink:href="#mc3ad139e2e" x="589.000909" y="444.43" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_82">
+      <!-- 4 -->
+      <g transform="translate(586.500909 458.305) scale(0.1 -0.1)">
+       <use xlink:href="#SimHei-34"/>
+      </g>
+     </g>
+    </g>
+    <g id="xtick_23">
+     <g id="line2d_78">
+      <g>
+       <use xlink:href="#mc3ad139e2e" x="633.519091" y="444.43" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_83">
+      <!-- 6 -->
+      <g transform="translate(631.019091 458.305) scale(0.1 -0.1)">
+       <use xlink:href="#SimHei-36"/>
+      </g>
+     </g>
+    </g>
+    <g id="xtick_24">
+     <g id="line2d_79">
+      <g>
+       <use xlink:href="#mc3ad139e2e" x="678.037273" y="444.43" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_84">
+      <!-- 8 -->
+      <g transform="translate(675.537273 458.305) scale(0.1 -0.1)">
+       <use xlink:href="#SimHei-38"/>
+      </g>
+     </g>
+    </g>
+    <g id="text_85">
+     <!-- Min_samples -->
+     <g transform="translate(583.76 470.43) scale(0.1 -0.1)">
+      <use xlink:href="#SimHei-4d"/>
+      <use xlink:href="#SimHei-69" x="50"/>
+      <use xlink:href="#SimHei-6e" x="100"/>
+      <use xlink:href="#SimHei-5f" x="150"/>
+      <use xlink:href="#SimHei-73" x="200"/>
+      <use xlink:href="#SimHei-61" x="250"/>
+      <use xlink:href="#SimHei-6d" x="300"/>
+      <use xlink:href="#SimHei-70" x="350"/>
+      <use xlink:href="#SimHei-6c" x="400"/>
+      <use xlink:href="#SimHei-65" x="450"/>
+      <use xlink:href="#SimHei-73" x="500"/>
+     </g>
+    </g>
+   </g>
+   <g id="matplotlib.axis_12">
+    <g id="ytick_46">
+     <g id="line2d_80">
+      <g>
+       <use xlink:href="#m8c0c25ddf6" x="513.32" y="439.9475" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_86">
+      <!-- 0 -->
+      <g transform="translate(501.32 443.385) scale(0.1 -0.1)">
+       <use xlink:href="#SimHei-30"/>
+      </g>
+     </g>
+    </g>
+    <g id="ytick_47">
+     <g id="line2d_81">
+      <g>
+       <use xlink:href="#m8c0c25ddf6" x="513.32" y="417.535" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_87">
+      <!-- 5 -->
+      <g transform="translate(501.32 420.9725) scale(0.1 -0.1)">
+       <use xlink:href="#SimHei-35"/>
+      </g>
+     </g>
+    </g>
+    <g id="ytick_48">
+     <g id="line2d_82">
+      <g>
+       <use xlink:href="#m8c0c25ddf6" x="513.32" y="395.1225" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_88">
+      <!-- 10 -->
+      <g transform="translate(496.32 398.56) scale(0.1 -0.1)">
+       <use xlink:href="#SimHei-31"/>
+       <use xlink:href="#SimHei-30" x="50"/>
+      </g>
+     </g>
+    </g>
+    <g id="ytick_49">
+     <g id="line2d_83">
+      <g>
+       <use xlink:href="#m8c0c25ddf6" x="513.32" y="372.71" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_89">
+      <!-- 15 -->
+      <g transform="translate(496.32 376.1475) scale(0.1 -0.1)">
+       <use xlink:href="#SimHei-31"/>
+       <use xlink:href="#SimHei-35" x="50"/>
+      </g>
+     </g>
+    </g>
+    <g id="ytick_50">
+     <g id="line2d_84">
+      <g>
+       <use xlink:href="#m8c0c25ddf6" x="513.32" y="350.2975" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_90">
+      <!-- 20 -->
+      <g transform="translate(496.32 353.735) scale(0.1 -0.1)">
+       <use xlink:href="#SimHei-32"/>
+       <use xlink:href="#SimHei-30" x="50"/>
+      </g>
+     </g>
+    </g>
+    <g id="ytick_51">
+     <g id="line2d_85">
+      <g>
+       <use xlink:href="#m8c0c25ddf6" x="513.32" y="327.885" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_91">
+      <!-- 25 -->
+      <g transform="translate(496.32 331.3225) scale(0.1 -0.1)">
+       <use xlink:href="#SimHei-32"/>
+       <use xlink:href="#SimHei-35" x="50"/>
+      </g>
+     </g>
+    </g>
+    <g id="ytick_52">
+     <g id="line2d_86">
+      <g>
+       <use xlink:href="#m8c0c25ddf6" x="513.32" y="305.4725" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_92">
+      <!-- 30 -->
+      <g transform="translate(496.32 308.91) scale(0.1 -0.1)">
+       <use xlink:href="#SimHei-33"/>
+       <use xlink:href="#SimHei-30" x="50"/>
+      </g>
+     </g>
+    </g>
+    <g id="ytick_53">
+     <g id="line2d_87">
+      <g>
+       <use xlink:href="#m8c0c25ddf6" x="513.32" y="283.06" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_93">
+      <!-- 35 -->
+      <g transform="translate(496.32 286.4975) scale(0.1 -0.1)">
+       <use xlink:href="#SimHei-33"/>
+       <use xlink:href="#SimHei-35" x="50"/>
+      </g>
+     </g>
+    </g>
+    <g id="ytick_54">
+     <g id="line2d_88">
+      <g>
+       <use xlink:href="#m8c0c25ddf6" x="513.32" y="260.6475" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_94">
+      <!-- 40 -->
+      <g transform="translate(496.32 264.085) scale(0.1 -0.1)">
+       <use xlink:href="#SimHei-34"/>
+       <use xlink:href="#SimHei-30" x="50"/>
+      </g>
+     </g>
+    </g>
+    <g id="text_95">
+     <!-- Number of clusters -->
+     <g transform="translate(491.07 390.815) rotate(-90) scale(0.1 -0.1)">
+      <use xlink:href="#SimHei-4e"/>
+      <use xlink:href="#SimHei-75" x="50"/>
+      <use xlink:href="#SimHei-6d" x="100"/>
+      <use xlink:href="#SimHei-62" x="150"/>
+      <use xlink:href="#SimHei-65" x="200"/>
+      <use xlink:href="#SimHei-72" x="250"/>
+      <use xlink:href="#SimHei-20" x="300"/>
+      <use xlink:href="#SimHei-6f" x="350"/>
+      <use xlink:href="#SimHei-66" x="400"/>
+      <use xlink:href="#SimHei-20" x="450"/>
+      <use xlink:href="#SimHei-63" x="500"/>
+      <use xlink:href="#SimHei-6c" x="550"/>
+      <use xlink:href="#SimHei-75" x="600"/>
+      <use xlink:href="#SimHei-73" x="650"/>
+      <use xlink:href="#SimHei-74" x="700"/>
+      <use xlink:href="#SimHei-65" x="750"/>
+      <use xlink:href="#SimHei-72" x="800"/>
+      <use xlink:href="#SimHei-73" x="850"/>
+     </g>
+    </g>
+   </g>
+   <g id="line2d_89">
+    <path d="M 522.223636 256.165 
+L 544.482727 435.465 
+L 566.741818 435.465 
+L 589.000909 435.465 
+L 611.26 435.465 
+L 633.519091 435.465 
+L 655.778182 435.465 
+L 678.037273 435.465 
+L 700.296364 435.465 
+" clip-path="url(#p8de73b5810)" style="fill: none; stroke: #888f7f; stroke-width: 1.5; stroke-linecap: square"/>
+   </g>
+   <g id="patch_33">
+    <path d="M 513.32 444.43 
+L 513.32 247.2 
+" style="fill: none; stroke: #000000; stroke-width: 0.8; stroke-linejoin: miter; stroke-linecap: square"/>
+   </g>
+   <g id="patch_34">
+    <path d="M 709.2 444.43 
+L 709.2 247.2 
+" style="fill: none; stroke: #000000; stroke-width: 0.8; stroke-linejoin: miter; stroke-linecap: square"/>
+   </g>
+   <g id="patch_35">
+    <path d="M 513.32 444.43 
+L 709.2 444.43 
+" style="fill: none; stroke: #000000; stroke-width: 0.8; stroke-linejoin: miter; stroke-linecap: square"/>
+   </g>
+   <g id="patch_36">
+    <path d="M 513.32 247.2 
+L 709.2 247.2 
+" style="fill: none; stroke: #000000; stroke-width: 0.8; stroke-linejoin: miter; stroke-linecap: square"/>
+   </g>
+   <g id="legend_6">
+    <g id="patch_37">
+     <path d="M 635.2 268.45 
+L 702.2 268.45 
+Q 704.2 268.45 704.2 266.45 
+L 704.2 254.2 
+Q 704.2 252.2 702.2 252.2 
+L 635.2 252.2 
+Q 633.2 252.2 633.2 254.2 
+L 633.2 266.45 
+Q 633.2 268.45 635.2 268.45 
+z
+" style="fill: #ffffff; opacity: 0.8; stroke: #cccccc; stroke-linejoin: miter"/>
+    </g>
+    <g id="line2d_90">
+     <path d="M 637.2 259.7 
+L 647.2 259.7 
+L 657.2 259.7 
+" style="fill: none; stroke: #888f7f; stroke-width: 1.5; stroke-linecap: square"/>
+    </g>
+    <g id="text_96">
+     <!-- eps:1.6 -->
+     <g transform="translate(665.2 263.2) scale(0.1 -0.1)">
+      <use xlink:href="#SimHei-65"/>
+      <use xlink:href="#SimHei-70" x="50"/>
+      <use xlink:href="#SimHei-73" x="100"/>
+      <use xlink:href="#SimHei-3a" x="150"/>
+      <use xlink:href="#SimHei-31" x="200"/>
+      <use xlink:href="#SimHei-2e" x="250"/>
+      <use xlink:href="#SimHei-36" x="300"/>
+     </g>
+    </g>
+   </g>
+  </g>
+  <g id="axes_7">
+   <g id="patch_38">
+    <path d="M 40.52 680.83 
+L 236.4 680.83 
+L 236.4 483.6 
+L 40.52 483.6 
+z
+" style="fill: #ffffff"/>
+   </g>
+   <g id="matplotlib.axis_13">
+    <g id="xtick_25">
+     <g id="line2d_91">
+      <g>
+       <use xlink:href="#mc3ad139e2e" x="71.682727" y="680.83" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_97">
+      <!-- 2 -->
+      <g transform="translate(69.182727 694.705) scale(0.1 -0.1)">
+       <use xlink:href="#SimHei-32"/>
+      </g>
+     </g>
+    </g>
+    <g id="xtick_26">
+     <g id="line2d_92">
+      <g>
+       <use xlink:href="#mc3ad139e2e" x="116.200909" y="680.83" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_98">
+      <!-- 4 -->
+      <g transform="translate(113.700909 694.705) scale(0.1 -0.1)">
+       <use xlink:href="#SimHei-34"/>
+      </g>
+     </g>
+    </g>
+    <g id="xtick_27">
+     <g id="line2d_93">
+      <g>
+       <use xlink:href="#mc3ad139e2e" x="160.719091" y="680.83" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_99">
+      <!-- 6 -->
+      <g transform="translate(158.219091 694.705) scale(0.1 -0.1)">
+       <use xlink:href="#SimHei-36"/>
+      </g>
+     </g>
+    </g>
+    <g id="xtick_28">
+     <g id="line2d_94">
+      <g>
+       <use xlink:href="#mc3ad139e2e" x="205.237273" y="680.83" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_100">
+      <!-- 8 -->
+      <g transform="translate(202.737273 694.705) scale(0.1 -0.1)">
+       <use xlink:href="#SimHei-38"/>
+      </g>
+     </g>
+    </g>
+    <g id="text_101">
+     <!-- Min_samples -->
+     <g transform="translate(110.96 706.83) scale(0.1 -0.1)">
+      <use xlink:href="#SimHei-4d"/>
+      <use xlink:href="#SimHei-69" x="50"/>
+      <use xlink:href="#SimHei-6e" x="100"/>
+      <use xlink:href="#SimHei-5f" x="150"/>
+      <use xlink:href="#SimHei-73" x="200"/>
+      <use xlink:href="#SimHei-61" x="250"/>
+      <use xlink:href="#SimHei-6d" x="300"/>
+      <use xlink:href="#SimHei-70" x="350"/>
+      <use xlink:href="#SimHei-6c" x="400"/>
+      <use xlink:href="#SimHei-65" x="450"/>
+      <use xlink:href="#SimHei-73" x="500"/>
+     </g>
+    </g>
+   </g>
+   <g id="matplotlib.axis_14">
+    <g id="ytick_55">
+     <g id="line2d_95">
+      <g>
+       <use xlink:href="#m8c0c25ddf6" x="40.52" y="676.3475" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_102">
+      <!-- 0 -->
+      <g transform="translate(28.52 679.785) scale(0.1 -0.1)">
+       <use xlink:href="#SimHei-30"/>
+      </g>
+     </g>
+    </g>
+    <g id="ytick_56">
+     <g id="line2d_96">
+      <g>
+       <use xlink:href="#m8c0c25ddf6" x="40.52" y="653.935" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_103">
+      <!-- 5 -->
+      <g transform="translate(28.52 657.3725) scale(0.1 -0.1)">
+       <use xlink:href="#SimHei-35"/>
+      </g>
+     </g>
+    </g>
+    <g id="ytick_57">
+     <g id="line2d_97">
+      <g>
+       <use xlink:href="#m8c0c25ddf6" x="40.52" y="631.5225" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_104">
+      <!-- 10 -->
+      <g transform="translate(23.52 634.96) scale(0.1 -0.1)">
+       <use xlink:href="#SimHei-31"/>
+       <use xlink:href="#SimHei-30" x="50"/>
+      </g>
+     </g>
+    </g>
+    <g id="ytick_58">
+     <g id="line2d_98">
+      <g>
+       <use xlink:href="#m8c0c25ddf6" x="40.52" y="609.11" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_105">
+      <!-- 15 -->
+      <g transform="translate(23.52 612.5475) scale(0.1 -0.1)">
+       <use xlink:href="#SimHei-31"/>
+       <use xlink:href="#SimHei-35" x="50"/>
+      </g>
+     </g>
+    </g>
+    <g id="ytick_59">
+     <g id="line2d_99">
+      <g>
+       <use xlink:href="#m8c0c25ddf6" x="40.52" y="586.6975" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_106">
+      <!-- 20 -->
+      <g transform="translate(23.52 590.135) scale(0.1 -0.1)">
+       <use xlink:href="#SimHei-32"/>
+       <use xlink:href="#SimHei-30" x="50"/>
+      </g>
+     </g>
+    </g>
+    <g id="ytick_60">
+     <g id="line2d_100">
+      <g>
+       <use xlink:href="#m8c0c25ddf6" x="40.52" y="564.285" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_107">
+      <!-- 25 -->
+      <g transform="translate(23.52 567.7225) scale(0.1 -0.1)">
+       <use xlink:href="#SimHei-32"/>
+       <use xlink:href="#SimHei-35" x="50"/>
+      </g>
+     </g>
+    </g>
+    <g id="ytick_61">
+     <g id="line2d_101">
+      <g>
+       <use xlink:href="#m8c0c25ddf6" x="40.52" y="541.8725" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_108">
+      <!-- 30 -->
+      <g transform="translate(23.52 545.31) scale(0.1 -0.1)">
+       <use xlink:href="#SimHei-33"/>
+       <use xlink:href="#SimHei-30" x="50"/>
+      </g>
+     </g>
+    </g>
+    <g id="ytick_62">
+     <g id="line2d_102">
+      <g>
+       <use xlink:href="#m8c0c25ddf6" x="40.52" y="519.46" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_109">
+      <!-- 35 -->
+      <g transform="translate(23.52 522.8975) scale(0.1 -0.1)">
+       <use xlink:href="#SimHei-33"/>
+       <use xlink:href="#SimHei-35" x="50"/>
+      </g>
+     </g>
+    </g>
+    <g id="ytick_63">
+     <g id="line2d_103">
+      <g>
+       <use xlink:href="#m8c0c25ddf6" x="40.52" y="497.0475" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_110">
+      <!-- 40 -->
+      <g transform="translate(23.52 500.485) scale(0.1 -0.1)">
+       <use xlink:href="#SimHei-34"/>
+       <use xlink:href="#SimHei-30" x="50"/>
+      </g>
+     </g>
+    </g>
+    <g id="text_111">
+     <!-- Number of clusters -->
+     <g transform="translate(18.27 627.215) rotate(-90) scale(0.1 -0.1)">
+      <use xlink:href="#SimHei-4e"/>
+      <use xlink:href="#SimHei-75" x="50"/>
+      <use xlink:href="#SimHei-6d" x="100"/>
+      <use xlink:href="#SimHei-62" x="150"/>
+      <use xlink:href="#SimHei-65" x="200"/>
+      <use xlink:href="#SimHei-72" x="250"/>
+      <use xlink:href="#SimHei-20" x="300"/>
+      <use xlink:href="#SimHei-6f" x="350"/>
+      <use xlink:href="#SimHei-66" x="400"/>
+      <use xlink:href="#SimHei-20" x="450"/>
+      <use xlink:href="#SimHei-63" x="500"/>
+      <use xlink:href="#SimHei-6c" x="550"/>
+      <use xlink:href="#SimHei-75" x="600"/>
+      <use xlink:href="#SimHei-73" x="650"/>
+      <use xlink:href="#SimHei-74" x="700"/>
+      <use xlink:href="#SimHei-65" x="750"/>
+      <use xlink:href="#SimHei-72" x="800"/>
+      <use xlink:href="#SimHei-73" x="850"/>
+     </g>
+    </g>
+   </g>
+   <g id="line2d_104">
+    <path d="M 49.423636 492.565 
+L 71.682727 671.865 
+L 93.941818 671.865 
+L 116.200909 671.865 
+L 138.46 671.865 
+L 160.719091 671.865 
+L 182.978182 671.865 
+L 205.237273 671.865 
+L 227.496364 671.865 
+" clip-path="url(#p22f9a668c0)" style="fill: none; stroke: #5d4ec9; stroke-width: 1.5; stroke-linecap: square"/>
+   </g>
+   <g id="patch_39">
+    <path d="M 40.52 680.83 
+L 40.52 483.6 
+" style="fill: none; stroke: #000000; stroke-width: 0.8; stroke-linejoin: miter; stroke-linecap: square"/>
+   </g>
+   <g id="patch_40">
+    <path d="M 236.4 680.83 
+L 236.4 483.6 
+" style="fill: none; stroke: #000000; stroke-width: 0.8; stroke-linejoin: miter; stroke-linecap: square"/>
+   </g>
+   <g id="patch_41">
+    <path d="M 40.52 680.83 
+L 236.4 680.83 
+" style="fill: none; stroke: #000000; stroke-width: 0.8; stroke-linejoin: miter; stroke-linecap: square"/>
+   </g>
+   <g id="patch_42">
+    <path d="M 40.52 483.6 
+L 236.4 483.6 
+" style="fill: none; stroke: #000000; stroke-width: 0.8; stroke-linejoin: miter; stroke-linecap: square"/>
+   </g>
+   <g id="legend_7">
+    <g id="patch_43">
+     <path d="M 162.4 504.85 
+L 229.4 504.85 
+Q 231.4 504.85 231.4 502.85 
+L 231.4 490.6 
+Q 231.4 488.6 229.4 488.6 
+L 162.4 488.6 
+Q 160.4 488.6 160.4 490.6 
+L 160.4 502.85 
+Q 160.4 504.85 162.4 504.85 
+z
+" style="fill: #ffffff; opacity: 0.8; stroke: #cccccc; stroke-linejoin: miter"/>
+    </g>
+    <g id="line2d_105">
+     <path d="M 164.4 496.1 
+L 174.4 496.1 
+L 184.4 496.1 
+" style="fill: none; stroke: #5d4ec9; stroke-width: 1.5; stroke-linecap: square"/>
+    </g>
+    <g id="text_112">
+     <!-- eps:1.9 -->
+     <g transform="translate(192.4 499.6) scale(0.1 -0.1)">
+      <defs>
+       <path id="SimHei-39" d="M 800 75 
+Q 1350 1000 1700 1750 
+Q 1075 1650 662 1912 
+Q 250 2175 162 2625 
+Q 75 3075 175 3437 
+Q 275 3800 487 4037 
+Q 700 4275 1000 4375 
+Q 1300 4475 1537 4475 
+Q 1775 4475 2025 4375 
+Q 2275 4275 2475 4075 
+Q 2675 3875 2750 3662 
+Q 2825 3450 2825 3112 
+Q 2825 2775 2575 2250 
+Q 2325 1725 1350 75 
+L 800 75 
+z
+M 662 2875 
+Q 700 2550 937 2337 
+Q 1175 2125 1450 2150 
+Q 1725 2175 1887 2300 
+Q 2050 2425 2200 2725 
+Q 2300 3100 2250 3362 
+Q 2200 3625 1987 3800 
+Q 1775 3975 1525 3975 
+Q 1375 4000 1137 3900 
+Q 900 3800 762 3500 
+Q 625 3200 662 2875 
+z
+" transform="scale(0.015625)"/>
+      </defs>
+      <use xlink:href="#SimHei-65"/>
+      <use xlink:href="#SimHei-70" x="50"/>
+      <use xlink:href="#SimHei-73" x="100"/>
+      <use xlink:href="#SimHei-3a" x="150"/>
+      <use xlink:href="#SimHei-31" x="200"/>
+      <use xlink:href="#SimHei-2e" x="250"/>
+      <use xlink:href="#SimHei-39" x="300"/>
+     </g>
+    </g>
+   </g>
+  </g>
+  <g id="axes_8">
+   <g id="patch_44">
+    <path d="M 276.92 680.83 
+L 472.8 680.83 
+L 472.8 483.6 
+L 276.92 483.6 
+z
+" style="fill: #ffffff"/>
+   </g>
+   <g id="matplotlib.axis_15">
+    <g id="xtick_29">
+     <g id="line2d_106">
+      <g>
+       <use xlink:href="#mc3ad139e2e" x="308.082727" y="680.83" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_113">
+      <!-- 2 -->
+      <g transform="translate(305.582727 694.705) scale(0.1 -0.1)">
+       <use xlink:href="#SimHei-32"/>
+      </g>
+     </g>
+    </g>
+    <g id="xtick_30">
+     <g id="line2d_107">
+      <g>
+       <use xlink:href="#mc3ad139e2e" x="352.600909" y="680.83" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_114">
+      <!-- 4 -->
+      <g transform="translate(350.100909 694.705) scale(0.1 -0.1)">
+       <use xlink:href="#SimHei-34"/>
+      </g>
+     </g>
+    </g>
+    <g id="xtick_31">
+     <g id="line2d_108">
+      <g>
+       <use xlink:href="#mc3ad139e2e" x="397.119091" y="680.83" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_115">
+      <!-- 6 -->
+      <g transform="translate(394.619091 694.705) scale(0.1 -0.1)">
+       <use xlink:href="#SimHei-36"/>
+      </g>
+     </g>
+    </g>
+    <g id="xtick_32">
+     <g id="line2d_109">
+      <g>
+       <use xlink:href="#mc3ad139e2e" x="441.637273" y="680.83" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_116">
+      <!-- 8 -->
+      <g transform="translate(439.137273 694.705) scale(0.1 -0.1)">
+       <use xlink:href="#SimHei-38"/>
+      </g>
+     </g>
+    </g>
+    <g id="text_117">
+     <!-- Min_samples -->
+     <g transform="translate(347.36 706.83) scale(0.1 -0.1)">
+      <use xlink:href="#SimHei-4d"/>
+      <use xlink:href="#SimHei-69" x="50"/>
+      <use xlink:href="#SimHei-6e" x="100"/>
+      <use xlink:href="#SimHei-5f" x="150"/>
+      <use xlink:href="#SimHei-73" x="200"/>
+      <use xlink:href="#SimHei-61" x="250"/>
+      <use xlink:href="#SimHei-6d" x="300"/>
+      <use xlink:href="#SimHei-70" x="350"/>
+      <use xlink:href="#SimHei-6c" x="400"/>
+      <use xlink:href="#SimHei-65" x="450"/>
+      <use xlink:href="#SimHei-73" x="500"/>
+     </g>
+    </g>
+   </g>
+   <g id="matplotlib.axis_16">
+    <g id="ytick_64">
+     <g id="line2d_110">
+      <g>
+       <use xlink:href="#m8c0c25ddf6" x="276.92" y="676.3475" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_118">
+      <!-- 0 -->
+      <g transform="translate(264.92 679.785) scale(0.1 -0.1)">
+       <use xlink:href="#SimHei-30"/>
+      </g>
+     </g>
+    </g>
+    <g id="ytick_65">
+     <g id="line2d_111">
+      <g>
+       <use xlink:href="#m8c0c25ddf6" x="276.92" y="653.935" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_119">
+      <!-- 5 -->
+      <g transform="translate(264.92 657.3725) scale(0.1 -0.1)">
+       <use xlink:href="#SimHei-35"/>
+      </g>
+     </g>
+    </g>
+    <g id="ytick_66">
+     <g id="line2d_112">
+      <g>
+       <use xlink:href="#m8c0c25ddf6" x="276.92" y="631.5225" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_120">
+      <!-- 10 -->
+      <g transform="translate(259.92 634.96) scale(0.1 -0.1)">
+       <use xlink:href="#SimHei-31"/>
+       <use xlink:href="#SimHei-30" x="50"/>
+      </g>
+     </g>
+    </g>
+    <g id="ytick_67">
+     <g id="line2d_113">
+      <g>
+       <use xlink:href="#m8c0c25ddf6" x="276.92" y="609.11" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_121">
+      <!-- 15 -->
+      <g transform="translate(259.92 612.5475) scale(0.1 -0.1)">
+       <use xlink:href="#SimHei-31"/>
+       <use xlink:href="#SimHei-35" x="50"/>
+      </g>
+     </g>
+    </g>
+    <g id="ytick_68">
+     <g id="line2d_114">
+      <g>
+       <use xlink:href="#m8c0c25ddf6" x="276.92" y="586.6975" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_122">
+      <!-- 20 -->
+      <g transform="translate(259.92 590.135) scale(0.1 -0.1)">
+       <use xlink:href="#SimHei-32"/>
+       <use xlink:href="#SimHei-30" x="50"/>
+      </g>
+     </g>
+    </g>
+    <g id="ytick_69">
+     <g id="line2d_115">
+      <g>
+       <use xlink:href="#m8c0c25ddf6" x="276.92" y="564.285" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_123">
+      <!-- 25 -->
+      <g transform="translate(259.92 567.7225) scale(0.1 -0.1)">
+       <use xlink:href="#SimHei-32"/>
+       <use xlink:href="#SimHei-35" x="50"/>
+      </g>
+     </g>
+    </g>
+    <g id="ytick_70">
+     <g id="line2d_116">
+      <g>
+       <use xlink:href="#m8c0c25ddf6" x="276.92" y="541.8725" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_124">
+      <!-- 30 -->
+      <g transform="translate(259.92 545.31) scale(0.1 -0.1)">
+       <use xlink:href="#SimHei-33"/>
+       <use xlink:href="#SimHei-30" x="50"/>
+      </g>
+     </g>
+    </g>
+    <g id="ytick_71">
+     <g id="line2d_117">
+      <g>
+       <use xlink:href="#m8c0c25ddf6" x="276.92" y="519.46" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_125">
+      <!-- 35 -->
+      <g transform="translate(259.92 522.8975) scale(0.1 -0.1)">
+       <use xlink:href="#SimHei-33"/>
+       <use xlink:href="#SimHei-35" x="50"/>
+      </g>
+     </g>
+    </g>
+    <g id="ytick_72">
+     <g id="line2d_118">
+      <g>
+       <use xlink:href="#m8c0c25ddf6" x="276.92" y="497.0475" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_126">
+      <!-- 40 -->
+      <g transform="translate(259.92 500.485) scale(0.1 -0.1)">
+       <use xlink:href="#SimHei-34"/>
+       <use xlink:href="#SimHei-30" x="50"/>
+      </g>
+     </g>
+    </g>
+    <g id="text_127">
+     <!-- Number of clusters -->
+     <g transform="translate(254.67 627.215) rotate(-90) scale(0.1 -0.1)">
+      <use xlink:href="#SimHei-4e"/>
+      <use xlink:href="#SimHei-75" x="50"/>
+      <use xlink:href="#SimHei-6d" x="100"/>
+      <use xlink:href="#SimHei-62" x="150"/>
+      <use xlink:href="#SimHei-65" x="200"/>
+      <use xlink:href="#SimHei-72" x="250"/>
+      <use xlink:href="#SimHei-20" x="300"/>
+      <use xlink:href="#SimHei-6f" x="350"/>
+      <use xlink:href="#SimHei-66" x="400"/>
+      <use xlink:href="#SimHei-20" x="450"/>
+      <use xlink:href="#SimHei-63" x="500"/>
+      <use xlink:href="#SimHei-6c" x="550"/>
+      <use xlink:href="#SimHei-75" x="600"/>
+      <use xlink:href="#SimHei-73" x="650"/>
+      <use xlink:href="#SimHei-74" x="700"/>
+      <use xlink:href="#SimHei-65" x="750"/>
+      <use xlink:href="#SimHei-72" x="800"/>
+      <use xlink:href="#SimHei-73" x="850"/>
+     </g>
+    </g>
+   </g>
+   <g id="line2d_119">
+    <path d="M 285.823636 492.565 
+L 308.082727 671.865 
+L 330.341818 671.865 
+L 352.600909 671.865 
+L 374.86 671.865 
+L 397.119091 671.865 
+L 419.378182 671.865 
+L 441.637273 671.865 
+L 463.896364 671.865 
+" clip-path="url(#p251d5b57bd)" style="fill: none; stroke: #2babfa; stroke-width: 1.5; stroke-linecap: square"/>
+   </g>
+   <g id="patch_45">
+    <path d="M 276.92 680.83 
+L 276.92 483.6 
+" style="fill: none; stroke: #000000; stroke-width: 0.8; stroke-linejoin: miter; stroke-linecap: square"/>
+   </g>
+   <g id="patch_46">
+    <path d="M 472.8 680.83 
+L 472.8 483.6 
+" style="fill: none; stroke: #000000; stroke-width: 0.8; stroke-linejoin: miter; stroke-linecap: square"/>
+   </g>
+   <g id="patch_47">
+    <path d="M 276.92 680.83 
+L 472.8 680.83 
+" style="fill: none; stroke: #000000; stroke-width: 0.8; stroke-linejoin: miter; stroke-linecap: square"/>
+   </g>
+   <g id="patch_48">
+    <path d="M 276.92 483.6 
+L 472.8 483.6 
+" style="fill: none; stroke: #000000; stroke-width: 0.8; stroke-linejoin: miter; stroke-linecap: square"/>
+   </g>
+   <g id="legend_8">
+    <g id="patch_49">
+     <path d="M 398.8 504.88125 
+L 465.8 504.88125 
+Q 467.8 504.88125 467.8 502.88125 
+L 467.8 490.6 
+Q 467.8 488.6 465.8 488.6 
+L 398.8 488.6 
+Q 396.8 488.6 396.8 490.6 
+L 396.8 502.88125 
+Q 396.8 504.88125 398.8 504.88125 
+z
+" style="fill: #ffffff; opacity: 0.8; stroke: #cccccc; stroke-linejoin: miter"/>
+    </g>
+    <g id="line2d_120">
+     <path d="M 400.8 496.13125 
+L 410.8 496.13125 
+L 420.8 496.13125 
+" style="fill: none; stroke: #2babfa; stroke-width: 1.5; stroke-linecap: square"/>
+    </g>
+    <g id="text_128">
+     <!-- eps:2.2 -->
+     <g transform="translate(428.8 499.63125) scale(0.1 -0.1)">
+      <use xlink:href="#SimHei-65"/>
+      <use xlink:href="#SimHei-70" x="50"/>
+      <use xlink:href="#SimHei-73" x="100"/>
+      <use xlink:href="#SimHei-3a" x="150"/>
+      <use xlink:href="#SimHei-32" x="200"/>
+      <use xlink:href="#SimHei-2e" x="250"/>
+      <use xlink:href="#SimHei-32" x="300"/>
+     </g>
+    </g>
+   </g>
+  </g>
+  <g id="axes_9">
+   <g id="patch_50">
+    <path d="M 513.32 680.83 
+L 709.2 680.83 
+L 709.2 483.6 
+L 513.32 483.6 
+z
+" style="fill: #ffffff"/>
+   </g>
+   <g id="matplotlib.axis_17">
+    <g id="xtick_33">
+     <g id="line2d_121">
+      <g>
+       <use xlink:href="#mc3ad139e2e" x="544.482727" y="680.83" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_129">
+      <!-- 2 -->
+      <g transform="translate(541.982727 694.705) scale(0.1 -0.1)">
+       <use xlink:href="#SimHei-32"/>
+      </g>
+     </g>
+    </g>
+    <g id="xtick_34">
+     <g id="line2d_122">
+      <g>
+       <use xlink:href="#mc3ad139e2e" x="589.000909" y="680.83" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_130">
+      <!-- 4 -->
+      <g transform="translate(586.500909 694.705) scale(0.1 -0.1)">
+       <use xlink:href="#SimHei-34"/>
+      </g>
+     </g>
+    </g>
+    <g id="xtick_35">
+     <g id="line2d_123">
+      <g>
+       <use xlink:href="#mc3ad139e2e" x="633.519091" y="680.83" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_131">
+      <!-- 6 -->
+      <g transform="translate(631.019091 694.705) scale(0.1 -0.1)">
+       <use xlink:href="#SimHei-36"/>
+      </g>
+     </g>
+    </g>
+    <g id="xtick_36">
+     <g id="line2d_124">
+      <g>
+       <use xlink:href="#mc3ad139e2e" x="678.037273" y="680.83" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_132">
+      <!-- 8 -->
+      <g transform="translate(675.537273 694.705) scale(0.1 -0.1)">
+       <use xlink:href="#SimHei-38"/>
+      </g>
+     </g>
+    </g>
+    <g id="text_133">
+     <!-- Min_samples -->
+     <g transform="translate(583.76 706.83) scale(0.1 -0.1)">
+      <use xlink:href="#SimHei-4d"/>
+      <use xlink:href="#SimHei-69" x="50"/>
+      <use xlink:href="#SimHei-6e" x="100"/>
+      <use xlink:href="#SimHei-5f" x="150"/>
+      <use xlink:href="#SimHei-73" x="200"/>
+      <use xlink:href="#SimHei-61" x="250"/>
+      <use xlink:href="#SimHei-6d" x="300"/>
+      <use xlink:href="#SimHei-70" x="350"/>
+      <use xlink:href="#SimHei-6c" x="400"/>
+      <use xlink:href="#SimHei-65" x="450"/>
+      <use xlink:href="#SimHei-73" x="500"/>
+     </g>
+    </g>
+   </g>
+   <g id="matplotlib.axis_18">
+    <g id="ytick_73">
+     <g id="line2d_125">
+      <g>
+       <use xlink:href="#m8c0c25ddf6" x="513.32" y="676.3475" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_134">
+      <!-- 0 -->
+      <g transform="translate(501.32 679.785) scale(0.1 -0.1)">
+       <use xlink:href="#SimHei-30"/>
+      </g>
+     </g>
+    </g>
+    <g id="ytick_74">
+     <g id="line2d_126">
+      <g>
+       <use xlink:href="#m8c0c25ddf6" x="513.32" y="653.935" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_135">
+      <!-- 5 -->
+      <g transform="translate(501.32 657.3725) scale(0.1 -0.1)">
+       <use xlink:href="#SimHei-35"/>
+      </g>
+     </g>
+    </g>
+    <g id="ytick_75">
+     <g id="line2d_127">
+      <g>
+       <use xlink:href="#m8c0c25ddf6" x="513.32" y="631.5225" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_136">
+      <!-- 10 -->
+      <g transform="translate(496.32 634.96) scale(0.1 -0.1)">
+       <use xlink:href="#SimHei-31"/>
+       <use xlink:href="#SimHei-30" x="50"/>
+      </g>
+     </g>
+    </g>
+    <g id="ytick_76">
+     <g id="line2d_128">
+      <g>
+       <use xlink:href="#m8c0c25ddf6" x="513.32" y="609.11" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_137">
+      <!-- 15 -->
+      <g transform="translate(496.32 612.5475) scale(0.1 -0.1)">
+       <use xlink:href="#SimHei-31"/>
+       <use xlink:href="#SimHei-35" x="50"/>
+      </g>
+     </g>
+    </g>
+    <g id="ytick_77">
+     <g id="line2d_129">
+      <g>
+       <use xlink:href="#m8c0c25ddf6" x="513.32" y="586.6975" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_138">
+      <!-- 20 -->
+      <g transform="translate(496.32 590.135) scale(0.1 -0.1)">
+       <use xlink:href="#SimHei-32"/>
+       <use xlink:href="#SimHei-30" x="50"/>
+      </g>
+     </g>
+    </g>
+    <g id="ytick_78">
+     <g id="line2d_130">
+      <g>
+       <use xlink:href="#m8c0c25ddf6" x="513.32" y="564.285" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_139">
+      <!-- 25 -->
+      <g transform="translate(496.32 567.7225) scale(0.1 -0.1)">
+       <use xlink:href="#SimHei-32"/>
+       <use xlink:href="#SimHei-35" x="50"/>
+      </g>
+     </g>
+    </g>
+    <g id="ytick_79">
+     <g id="line2d_131">
+      <g>
+       <use xlink:href="#m8c0c25ddf6" x="513.32" y="541.8725" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_140">
+      <!-- 30 -->
+      <g transform="translate(496.32 545.31) scale(0.1 -0.1)">
+       <use xlink:href="#SimHei-33"/>
+       <use xlink:href="#SimHei-30" x="50"/>
+      </g>
+     </g>
+    </g>
+    <g id="ytick_80">
+     <g id="line2d_132">
+      <g>
+       <use xlink:href="#m8c0c25ddf6" x="513.32" y="519.46" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_141">
+      <!-- 35 -->
+      <g transform="translate(496.32 522.8975) scale(0.1 -0.1)">
+       <use xlink:href="#SimHei-33"/>
+       <use xlink:href="#SimHei-35" x="50"/>
+      </g>
+     </g>
+    </g>
+    <g id="ytick_81">
+     <g id="line2d_133">
+      <g>
+       <use xlink:href="#m8c0c25ddf6" x="513.32" y="497.0475" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_142">
+      <!-- 40 -->
+      <g transform="translate(496.32 500.485) scale(0.1 -0.1)">
+       <use xlink:href="#SimHei-34"/>
+       <use xlink:href="#SimHei-30" x="50"/>
+      </g>
+     </g>
+    </g>
+    <g id="text_143">
+     <!-- Number of clusters -->
+     <g transform="translate(491.07 627.215) rotate(-90) scale(0.1 -0.1)">
+      <use xlink:href="#SimHei-4e"/>
+      <use xlink:href="#SimHei-75" x="50"/>
+      <use xlink:href="#SimHei-6d" x="100"/>
+      <use xlink:href="#SimHei-62" x="150"/>
+      <use xlink:href="#SimHei-65" x="200"/>
+      <use xlink:href="#SimHei-72" x="250"/>
+      <use xlink:href="#SimHei-20" x="300"/>
+      <use xlink:href="#SimHei-6f" x="350"/>
+      <use xlink:href="#SimHei-66" x="400"/>
+      <use xlink:href="#SimHei-20" x="450"/>
+      <use xlink:href="#SimHei-63" x="500"/>
+      <use xlink:href="#SimHei-6c" x="550"/>
+      <use xlink:href="#SimHei-75" x="600"/>
+      <use xlink:href="#SimHei-73" x="650"/>
+      <use xlink:href="#SimHei-74" x="700"/>
+      <use xlink:href="#SimHei-65" x="750"/>
+      <use xlink:href="#SimHei-72" x="800"/>
+      <use xlink:href="#SimHei-73" x="850"/>
+     </g>
+    </g>
+   </g>
+   <g id="line2d_134">
+    <path d="M 522.223636 492.565 
+L 544.482727 671.865 
+L 566.741818 671.865 
+L 589.000909 671.865 
+L 611.26 671.865 
+L 633.519091 671.865 
+L 655.778182 671.865 
+L 678.037273 671.865 
+L 700.296364 671.865 
+" clip-path="url(#pd1771e7171)" style="fill: none; stroke: #8f83a9; stroke-width: 1.5; stroke-linecap: square"/>
+   </g>
+   <g id="patch_51">
+    <path d="M 513.32 680.83 
+L 513.32 483.6 
+" style="fill: none; stroke: #000000; stroke-width: 0.8; stroke-linejoin: miter; stroke-linecap: square"/>
+   </g>
+   <g id="patch_52">
+    <path d="M 709.2 680.83 
+L 709.2 483.6 
+" style="fill: none; stroke: #000000; stroke-width: 0.8; stroke-linejoin: miter; stroke-linecap: square"/>
+   </g>
+   <g id="patch_53">
+    <path d="M 513.32 680.83 
+L 709.2 680.83 
+" style="fill: none; stroke: #000000; stroke-width: 0.8; stroke-linejoin: miter; stroke-linecap: square"/>
+   </g>
+   <g id="patch_54">
+    <path d="M 513.32 483.6 
+L 709.2 483.6 
+" style="fill: none; stroke: #000000; stroke-width: 0.8; stroke-linejoin: miter; stroke-linecap: square"/>
+   </g>
+   <g id="legend_9">
+    <g id="patch_55">
+     <path d="M 635.2 504.88125 
+L 702.2 504.88125 
+Q 704.2 504.88125 704.2 502.88125 
+L 704.2 490.6 
+Q 704.2 488.6 702.2 488.6 
+L 635.2 488.6 
+Q 633.2 488.6 633.2 490.6 
+L 633.2 502.88125 
+Q 633.2 504.88125 635.2 504.88125 
+z
+" style="fill: #ffffff; opacity: 0.8; stroke: #cccccc; stroke-linejoin: miter"/>
+    </g>
+    <g id="line2d_135">
+     <path d="M 637.2 496.13125 
+L 647.2 496.13125 
+L 657.2 496.13125 
+" style="fill: none; stroke: #8f83a9; stroke-width: 1.5; stroke-linecap: square"/>
+    </g>
+    <g id="text_144">
+     <!-- eps:2.5 -->
+     <g transform="translate(665.2 499.63125) scale(0.1 -0.1)">
+      <use xlink:href="#SimHei-65"/>
+      <use xlink:href="#SimHei-70" x="50"/>
+      <use xlink:href="#SimHei-73" x="100"/>
+      <use xlink:href="#SimHei-3a" x="150"/>
+      <use xlink:href="#SimHei-32" x="200"/>
+      <use xlink:href="#SimHei-2e" x="250"/>
+      <use xlink:href="#SimHei-35" x="300"/>
+     </g>
+    </g>
+   </g>
+  </g>
+ </g>
+ <defs>
+  <clipPath id="pbbaddb9508">
+   <rect x="40.52" y="10.8" width="195.88" height="197.23"/>
+  </clipPath>
+  <clipPath id="p22224b9558">
+   <rect x="276.92" y="10.8" width="195.88" height="197.23"/>
+  </clipPath>
+  <clipPath id="p6a08b10ffa">
+   <rect x="513.32" y="10.8" width="195.88" height="197.23"/>
+  </clipPath>
+  <clipPath id="p45573baeb3">
+   <rect x="40.52" y="247.2" width="195.88" height="197.23"/>
+  </clipPath>
+  <clipPath id="p273449b5cd">
+   <rect x="276.92" y="247.2" width="195.88" height="197.23"/>
+  </clipPath>
+  <clipPath id="p8de73b5810">
+   <rect x="513.32" y="247.2" width="195.88" height="197.23"/>
+  </clipPath>
+  <clipPath id="p22f9a668c0">
+   <rect x="40.52" y="483.6" width="195.88" height="197.23"/>
+  </clipPath>
+  <clipPath id="p251d5b57bd">
+   <rect x="276.92" y="483.6" width="195.88" height="197.23"/>
+  </clipPath>
+  <clipPath id="pd1771e7171">
+   <rect x="513.32" y="483.6" width="195.88" height="197.23"/>
+  </clipPath>
+ </defs>
+</svg>
