@@ -56,7 +56,7 @@ ax.set_zlabel('Z(值)')
 
 '''row'''
 if index_1 == 41:
-    birch = Birch(threshold = 2,branching_factor = 20,n_clusters=3)
+    birch = Birch(threshold = 2,branching_factor = 50,n_clusters=None)
     birch.fit(data)  # 拟合模型
     data_o["label"] = birch.labels_ # 添加标签
     print(data_o)
@@ -80,11 +80,12 @@ if index_1 == 41:
     ax.view_init(30, 185)
     plt.savefig('Birch_row_cluster{0}.svg'.format(len(set(birch.labels_))),format='svg')
     plt.savefig('Birch_row_cluster{0}.png'.format(len(set(birch.labels_))),format='png')
+    print(set(birch.labels_))
     plt.show()
 
 '''columns''' # 更改
 if index_1 == 288:
-    birch = Birch(threshold = 2,branching_factor = 20,n_clusters=4)
+    birch = Birch(threshold = 2,branching_factor = 50,n_clusters=None)
     birch.fit(data)  # 拟合模型
     data_o["label"] = birch.labels_ # 添加标签
     print(data_o)
